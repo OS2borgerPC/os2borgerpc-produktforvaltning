@@ -1,4 +1,4 @@
-# Produktforvaltning
+# OS2BorgerPC Produktforvaltning
 
 Dette repository understøtter produktforvaltningen og governance for OS2BorgerPC.  
 Her samles centrale dokumenter, beslutninger og arbejdsgrundlag, så der er én fælles og transparent kilde for styring og koordinering.
