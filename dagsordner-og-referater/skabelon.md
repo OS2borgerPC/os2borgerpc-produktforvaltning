@@ -61,35 +61,9 @@ Evt. Observers/ Gæster:
 
 ## Møde referat
 
-### AD 1: Formalia
-   - [ ] Mødeleder og referent udpeget
-   - [ ] referat godkendt
-
-### AD 2: General Housekeeping
- - [ ] **Status på Igangværende aktiviteter**  (*her kan med fordel sætte sin action log ind I Tabelform)
-    1. xxxxxxx
-    2. xxxxxxx
-    3. xxxxxxx
-    4. xxxxx
- - [ ] **Opfølgning på budget og ressourcer**
-   - [ ] Budget
-   - [ ] Ressourcer
 
 
-### AD 3: Tema 1 
 
-xxxxxxx
-### AD 4: Tema 2 
 
-xxxxxxxxx
-### AD 5: Tema 3
-
-xxxxx
-### AD 6: Evt. & kik til næste møde 
-
- - [ ] EVT:**
- - [ ] Dato & tidspunkt for næste møde i det pågældende fora.
- - [ ] Dato & tid for vigtige conferencer eller fælles arrangementer
- - [ ] xxxxxxx 
  
   ---
