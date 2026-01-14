@@ -9,9 +9,7 @@ I OS2BorgerPC produktet er der gennem tiden truffet beslutninger omkring teknolo
 Uden systematisk dokumentation risikerer projektet videns-tab, uklarhed om rationale bag beslutninger samt udfordringer ved onboarding af nye interessenter og ved senere revision af tidligere valg.
 Der er behov for et fælles, letvægtigt og vedvarende beslutningsgrundlag. 
 
-Arkitekturbeslutninger dokumenteres i ADR.
-
-Det er kun beslutninger beslutninger truffet fra xxx og fremad der dokumenteres.
+Arkitekturbeslutninger dokumenteres ikke her, men i stdet i ADR.
 
 ## Beslutning
 
@@ -19,18 +17,7 @@ Der etableres en strategisk beslutningslog som en fast del af projektets dokumen
 
 Beslutningsloggen versionsstyres sammen med projektets øvrige artefakter.
 
-## Context
+## Konsekvens
 
-Produktet har brug for en strategisk beslutningslog for at vi kan dokumentere og fastholde strategiske beslutninger i softwareprojektet, så rationaler og konsekvenser er transparente over tid.
+Der skal etableres en arbejdsgang så væsentlige beslutninger truffet af koordinationsgruppe eller styregruppe dokumenteres her.
 
-## Decision
-
-We will use Architectural Decision Records.
-
-We will write down the original architectural decisions as ADRs even though years have passed, to help document the
-thoughts behind the project.
-
-## Consequences
-
-This introduces an additional burden on core project maintainers to diligently follow architecture discussions and
-record the decisions in this repo as an ADR.
