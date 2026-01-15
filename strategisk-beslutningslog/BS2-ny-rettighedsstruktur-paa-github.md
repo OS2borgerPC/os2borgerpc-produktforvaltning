@@ -11,7 +11,6 @@ I det nuværende setup har alle udviklere *Owner*-rettigheder i GitHub-organisat
 
 Denne tilgang medfører øget sikkerhedsrisiko, manglende sporbarhed af ansvar. Derudover vanskeliggør det overholdelse af principper om “least privilege” og god governance.
 
----
 
 ## Beslutning
 
@@ -25,7 +24,6 @@ Der etableres en **team-baseret rettighedsstruktur** i GitHub-organisationen.
 
 Denne struktur skal understøtte klar ansvarsfordeling, bedre sikkerhed og nemmere administration.
 
----
 
 ## Konsekvens
 
