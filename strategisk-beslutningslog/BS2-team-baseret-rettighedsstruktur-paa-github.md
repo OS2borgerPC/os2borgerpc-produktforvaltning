@@ -7,7 +7,7 @@
 
 ## Kontekst
 
-I det nuværende setup har alle udviklere *Owner*-rettigheder i GitHub-organisationen. Dette inkluderer også personer fra eksterne leverandører, hvor der ikke længere foreligger en formel aftale om bidrag til softwareproduktet. Den nuværende rettighedsmodel giver bred adgang til alle repositories og organisatoriske indstillinger, uanset faktisk ansvar og behov.
+I det nuværende setup har alle udviklere *Owner*-rettigheder i GitHub-organisationen. Dette inkluderer også personer fra leverandører, hvor der ikke længere foreligger en formel aftale om bidrag til softwareproduktet. Den nuværende rettighedsmodel giver bred adgang til alle repositories og organisatoriske indstillinger, uanset faktisk ansvar og behov.
 
 Denne tilgang medfører øget sikkerhedsrisiko, manglende sporbarhed af ansvar. Derudover vanskeliggør det overholdelse af principper om “least privilege” og god governance.
 
@@ -19,8 +19,8 @@ Der etableres en **team-baseret rettighedsstruktur** i GitHub-organisationen.
 - Personlige rettigheder fjernes, og adgang tildeles udelukkende via teams  
 - Brugere får kun adgang til de repositories, der er relevante for deres rolle  
 - Rettighedsniveauer tildeles efter behov (fx *Read*, *Write* eller *Maintain*)  
-- *Owner*-rettigheder begrænses til et lille antal interne nøglepersoner  
-- Eksterne leverandører tildeles kun tidsbegrænset og afgrænset adgang, når der foreligger en aktiv aftale  
+- *Owner*-rettigheder begrænses til et lille antal nøglepersoner tilknyttet produktet
+- Leverandører tildeles kun tidsbegrænset og afgrænset adgang, når der foreligger en aktiv aftale  
 
 Denne struktur skal understøtte klar ansvarsfordeling, bedre sikkerhed og nemmere administration.
 
