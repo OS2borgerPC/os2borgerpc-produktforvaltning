@@ -1,5 +1,9 @@
-# Beslutning 2: Valg af flerleverandørstrategi
-Dato: 14-01-2026
+# Beslutning 2: Ny rettighedsstruktur på Github
+
+## Status
+- [x] Udkast
+- [ ] Godkendt af koordinationsgruppen - Dato:
+- [ ] Godkendt af styregruppen - Dato:
 
 ## Kontekst
 
