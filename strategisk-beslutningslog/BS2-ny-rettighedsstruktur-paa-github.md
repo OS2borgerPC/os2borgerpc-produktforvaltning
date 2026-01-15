@@ -1,4 +1,4 @@
-# Beslutning 2: Ny rettighedsstruktur på Github
+# Beslutning 2: Team-baseret rettighedsstruktur på Github
 
 ## Status
 - [x] Udkast
