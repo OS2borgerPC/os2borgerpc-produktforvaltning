@@ -7,19 +7,29 @@
 
 ## Kontekst
 
-Et code review fra juni 2023 foretaget af KvalitetsIT viser at OS2BorgerPC produktet er vanskeligt at hjemtage for myndigheder og driftsleverandører, der ønsker at hoste OS2BorgerPC produktet.
-Kildekoden er tilgængelig, men der er indbygget flere tekniske forhindringer.
+I det nuværende setup har alle udviklere *Owner*-rettigheder i GitHub-organisationen. Dette inkluderer også personer fra eksterne leverandører, hvor der ikke længere foreligger en formel aftale om bidrag til softwareproduktet. Den nuværende rettighedsmodel giver bred adgang til alle repositories og organisatoriske indstillinger, uanset faktisk ansvar og behov.
 
-Den 22. maj 2024 blev der afholdt et medlemsmøde, hvor to strategier blev præsenteret:
-•	As-is-strategi: Magenta forbliver eksklusivleverandør.
-•	To-be-strategi: OS2BorgerPC åbnes for flere leverandører.
-Medlemskommunernes svar blev indhentet i en spørgeskemaundersøgelse, hvor 90 % af medlemmerne støttede en flerleverandørstrategi. Dokumentation for mødet og afstemningsresultat findes på boks.os2.eu i koordinationsgruppens mappe.
+Denne tilgang medfører øget sikkerhedsrisiko, manglende sporbarhed af ansvar. Derudover vanskeliggør det overholdelse af principper om “least privilege” og god governance.
+
+---
 
 ## Beslutning
 
-I henhold til medlemmernes ønske, beslutter koordinationsgruppen at forfølge en flerleverandør strategi. 
-Det sker ved at udbedre de problematikker som code review har afsløret, der forhindrer drift i regi af flere driftsleverandører eller hjemtagning af produktet til drift i kommuner.
+Der etableres en **team-baseret rettighedsstruktur** i GitHub-organisationen.
+
+- Personlige rettigheder fjernes, og adgang tildeles udelukkende via teams  
+- Brugere får kun adgang til de repositories, der er relevante for deres rolle  
+- Rettighedsniveauer tildeles efter behov (fx *Read*, *Write* eller *Maintain*)  
+- *Owner*-rettigheder begrænses til et lille antal interne nøglepersoner  
+- Eksterne leverandører tildeles kun tidsbegrænset og afgrænset adgang, når der foreligger en aktiv aftale  
+
+Denne struktur skal understøtte klar ansvarsfordeling, bedre sikkerhed og nemmere administration.
+
+---
 
 ## Konsekvens
 
-I januar 2025 frigives nye releases af OS2BorgerPC-admin-site, OS2BorgerPC-image og OS2BorgerPC-kiosk-image der fungerer i et flerleverandør setup.
+Ændringen reducerer risikoen for utilsigtede eller uautoriserede ændringer i kodebasen og organisatoriske indstillinger. Samtidig forbedres overblikket over, hvem der har ansvar for hvilke repositories.
+
+Der vil være en kort overgangsperiode, hvor eksisterende adgange gennemgås og justeres, og hvor nogle brugere vil opleve reducerede rettigheder. På længere sigt forventes beslutningen at styrke sikkerhed, compliance og vedligeholdelse af softwareproduktet samt gøre onboarding og offboarding mere struktureret.
+
