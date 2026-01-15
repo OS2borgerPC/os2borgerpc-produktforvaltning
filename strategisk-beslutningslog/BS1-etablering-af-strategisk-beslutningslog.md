@@ -1,8 +1,9 @@
 # Beslutning 1: Etablering af strategisk beslutningslog
-Dato: 14-01-2026
 
 ## Status
-Udkast
+- [x] Udkast
+- [ ] Godkendt af koordinationsgruppen - Dato:
+- [ ] Godkendt af styregruppen - Dato:
 
 ## Kontekst
 
