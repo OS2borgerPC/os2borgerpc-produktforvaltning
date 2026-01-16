@@ -80,6 +80,7 @@ Pull requests skal:
 - Linke til det relevante issue.
 - Indeholde en klar beskrivelse af ændringerne.
 - Overholde projektets kodestandarder.
+- Bestå alle automatiserede kontroller og tests
 
 ---
 
@@ -98,6 +99,7 @@ Efter godkendt review merges koden til `development`-branchen.
 
 - Koden er herefter klar til funktionel test.
 - Opgavestiller tester, at acceptkriterierne er opfyldt.
+- Opgavestiller verificerer at aftalt dokumentation er leveret.
 - Eventuelle fejl eller mangler håndteres via GitHub issues.
 
 ---
