@@ -18,20 +18,9 @@ https://github.com/os2borgerpc
 
 ---
 
-flowchart TD
-    A[Opret Issue på GitHub] --> B[Koordinationsgruppen behandler sag]
-    B -->|Afvist| C[Sag lukkes]
-    B -->|Godkendt| D[Løsningsbeskrivelse og estimering]
-    D --> E[Bestilling hos udviklingsleverandør]
-    E --> F[Udvikling i feature branch]
-    F --> G[Pull Request oprettes]
-    G --> H[Code Review]
-    H -->|Ændringer kræves| F
-    H -->|Godkendt| I[Merge til development]
-    I --> J[Funktionel test]
-    J -->|Fejl| F
-    J -->|Godkendt| K[Merge til main]
-    K --> L[Release og dokumentation]
+
+
+
 
 
 ## Arbejdsgang for kodebidrag
