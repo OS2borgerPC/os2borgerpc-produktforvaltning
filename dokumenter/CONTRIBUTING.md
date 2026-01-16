@@ -1,5 +1,11 @@
 # Contributing to OS2BorgerPC
 
+## Status
+- [x] Udkast
+- [ ] Godkendt af koordinationsgruppen - Dato:
+- [ ] Godkendt af styregruppen - Dato:
+
+## Kontekst
 Dette dokument beskriver processen for kodebidrag til OS2BorgerPC’s kernekomponenter.
 
 OS2BorgerPC anvender en flerleverandørstrategi, hvor flere uafhængige udviklingsleverandører kan bidrage til den samme kodebase. For at sikre kvalitet, sporbarhed og transparens følger alle kodebidrag en fælles proces baseret på *GitHub Flow*.
@@ -7,7 +13,7 @@ OS2BorgerPC anvender en flerleverandørstrategi, hvor flere uafhængige udviklin
 Repository-oversigt:
 https://github.com/os2borgerpc
 
----
+
 
 ## Overordnede principper
 
@@ -16,9 +22,12 @@ https://github.com/os2borgerpc
 - Al funktionalitet skal være testbar og dokumenteret.
 - Udvikling på kernekomponenter må først påbegyndes efter godkendelse fra koordinationsgruppen.
 
----
 
-## Fra udviklingsønske til release
+
+## Flow-diagram: Fra udviklingsønske til release
+
+<details>
+<summary>Klik for at udfolde diagram</summary>
 
 ```mermaid
 flowchart TD
@@ -35,17 +44,13 @@ flowchart TD
     J -->|Fejl| F
     J -->|Godkendt| K[Merge til main]
     K --> L[Release og dokumentation]
-```
-
-```mermaid
-flowchart TD
-    A[Opret Issue] --> B[Code Review] --> C[Release]
 
     click A "https://github.com/os2borgerpc/.github/issues/new" "Opret ny sag"
     click B "https://github.com/os2borgerpc/os2borgerpc-core/pulls" "Se Pull Requests"
     click C "https://github.com/os2borgerpc/os2borgerpc-core/releases" "Se releases"
 ```
 
+</details>
 
 
 ## Arbejdsgang for kodebidrag
