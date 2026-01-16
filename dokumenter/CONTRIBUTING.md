@@ -18,8 +18,33 @@ https://github.com/os2borgerpc
 
 ---
 
+## Fra udviklingsønske til release
 
+```mermaid
+flowchart TD
+    A[Opret sag på GitHub] --> B[Koordinationsgruppen behandler sag]
+    B -->|Afvist| C[Sag lukkes]
+    B -->|Godkendt| D[Løsningsbeskrivelse og estimering]
+    D --> E[Bestilling hos udviklingsleverandør]
+    E --> F[Udvikling i feature branch]
+    F --> G[Pull Request oprettes]
+    G --> H[Code Review]
+    H -->|Ændringer kræves| F
+    H -->|Godkendt| I[Merge til development]
+    I --> J[Funktionel test]
+    J -->|Fejl| F
+    J -->|Godkendt| K[Merge til main]
+    K --> L[Release og dokumentation]
+```
 
+```mermaid
+flowchart TD
+    A[Opret Issue] --> B[Code Review] --> C[Release]
+
+    click A "https://github.com/os2borgerpc/.github/issues/new" "Opret ny sag"
+    click B "https://github.com/os2borgerpc/os2borgerpc-core/pulls" "Se Pull Requests"
+    click C "https://github.com/os2borgerpc/os2borgerpc-core/releases" "Se releases"
+```
 
 
 
