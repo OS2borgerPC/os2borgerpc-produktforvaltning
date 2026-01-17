@@ -14,6 +14,19 @@ OS2BorgerPC anvender en flerleverandørstrategi for både udvikling og drift.
 For at sikre transparens og sporbarhed er det et krav, at hele udviklingsprocessen foregår på GitHub i OS2BorgerPC’s officielle repositories.
 
 ---
+## Styregruppen
+
+Styregruppen for OS2BorgerPC har det overordnede ansvar for produktets strategiske retning og rammer.
+
+Styregruppen har ansvar for:
+
+- Fastlæggelse af overordnede mål og prioriteringer for OS2BorgerPC.
+- Godkendelse af større ændringer, nye initiativer og strategiske beslutninger.
+- Beslutning om finansiering og overordnede ressourceprioriteringer.
+- Overordnet opfølgning på fremdrift, økonomi og risici.
+
+Styregruppen kan inddrages af koordinationsgruppen ved større sager, herunder ved behov for afklaring af prioritering, finansiering eller strategisk retning.
+
 
 ## Koordinationsgruppen
 
