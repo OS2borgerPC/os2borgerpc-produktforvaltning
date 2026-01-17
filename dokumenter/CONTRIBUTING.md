@@ -13,6 +13,34 @@ OS2BorgerPC anvender en flerleverandørstrategi, hvor flere uafhængige udviklin
 Repository-oversigt:
 https://github.com/os2borgerpc
 
+## OS2BorgerPC produktorganisering
+OS2BorgerPC består af flere repositories. 
+- Nogle repositories udgør produktkernen. Bidrag til dem skal følge retningslinjer i CONTRIBUTONG.md
+- Nogle repositories rummer communnity contributions. Bidrag til disse er ikke underlagt faste retningslinjer.
+
+### Repository oversigt
+<details>
+<summary>Klik for at se en fuld repository oversigt</summary>
+    
+### OS2BorgerPC produktkernen består af disse repos
+
+- [**os2borgerpc-image**](https://github.com/OS2borgerPC/os2borgerpc-image) – Specialiseret Ubuntu Desktop distribution tilpasset offentligt tilgængelige arbejdsstationer i de danske kommuner.
+- [**os2borgerpc-kiosk-image**](https://github.com/OS2borgerPC/os2borgerpc-kiosk-image) – Specialiseret Ubuntu Server distribution tilpasset storskærme og kiosk-løsninger i de danske kommuner.
+- [**os2borgerpc-admin-site**](https://github.com/OS2borgerPC/os2borgerpc-admin-site) – Webbaseret system til administration af BorgerPC’er bygget på Django.
+- [**os2borgerpc-client**](https://github.com/OS2borgerPC/os2borgerpc-client) – Python applikation, der installeres på BorgerPC’erne og kommunikerer med administrationssystemet.
+- [**os2borgerpc-core-scripts**](https://github.com/OS2borgerPC/os2borgerpc-core-scripts) – Scripts til udvidelse og tilpasning af OS2BorgerPC-grundinstallationen.
+- [**os2borgerpc-admin-site-urls**](https://github.com/OS2borgerPC/os2borgerpc-admin-site-urls) – Fælles konfiguration af URL’er på tværs af alle hostede instanser.
+- [**os2borgerpc-admin-site-deployment**](https://github.com/OS2borgerPC/os2borgerpc-admin-site-deployment) – Deployment-kode og opsætning til automatisk udrulning af solutionens services.
+- [**os2borgerpc-docs**](https://github.com/OS2borgerPC/os2borgerpc-docs) – Dokumentation af kernekomponenterne i Markdown, automatisk bygget i en søgbar webudgave.
+
+### Øvrige repositories
+
+- [**os2borgerpc-community-scripts**](https://github.com/OS2borgerPC/os2borgerpc-community-scripts) – Community-vedligeholdte scripts relateret til OS2BorgerPC.
+- [**os2borgerpc-produktforvaltning**](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning) – Understøtter produktforvaltning og governance for OS2BorgerPC (privat repo).
+- [**os2borgerpc-kiosk-rpi-image**](https://github.com/OS2borgerPC/os2borgerpc-kiosk-rpi-image) – Alternativ kiosk-image, fx til Raspberry Pi.
+- [**Hardware_cabinet**](https://github.com/OS2borgerPC/Hardware_cabinet) – Tegninger til hardware-kabinet til OS2BorgerPC-hardware.
+
+</details>
 
 
 ## Overordnede principper
