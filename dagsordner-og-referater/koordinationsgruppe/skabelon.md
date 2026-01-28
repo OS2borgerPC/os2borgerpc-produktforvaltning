@@ -33,23 +33,23 @@
 Evt. Observers/ Gæster: 
  
 ## Dagsorden
-1. Formalia
-Verificering af tilstedeværelse, mødeleder og referent
-Godkendelse af referat og dagsorden
+#### 1. Formalia
+- 1.1 Verificering af tilstedeværelse, mødeleder og referent
+- 1.2 Godkendelse af referat og dagsorden
 
-2. General House-keeping
-Status på igangværende aktiviteter
-Henvendelser ude fra og spørgsmål fra baglandet
-Input til styregruppemødet den følgende Torsdag.
+#### 2. General House-keeping
+- 2.1 Status på igangværende aktiviteter
+- 2.2 Henvendelser ude fra og spørgsmål fra baglandet
+- 2.3 Input til styregruppemødet den følgende Torsdag.
 
-3. Temaer for dagens møde
+#### 3. Temaer for dagens møde
 
 Evt og kik til næste møde
 
 
-### Links til evt. mødepræsentation og baggrundsmateriale
+#### Links til evt. mødepræsentation og baggrundsmateriale
 
-### Link til beslutningslogs
+#### Link til beslutningslogs
 
 
 
