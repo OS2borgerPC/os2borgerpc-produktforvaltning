@@ -4,14 +4,14 @@
 - [ ] Mødet kalendersat
 - [ ] Dagsorden udarbejdet
 - [ ] Referat påbegyndt
-- [ ] Referat sendt til godkendelse
+- [ ] Referat klar til godkendelse
 - [ ] Referat godkendt
 - [ ] Referat publiceret  
 
 
 ## Mødefakta
   
-**Mødenavn**: OS2borgerpc koordinationsgruppemøde  
+**Mødenavn**: OS2borgerpc koordinationsgruppemøde  (Afholdes 1. mandag i måneden)
 **Tid**: dd.mm.yyy  kl. Start tid - Slut tid  
 **Sted**: Virtuel
 
@@ -32,30 +32,25 @@
   
 Evt. Observers/ Gæster: 
  
+## Dagsorden
+1. Formalia
+Verificering af tilstedeværelse, mødeleder og referent
+Godkendelse af referat og dagsorden
 
-## Møde Indhold
+2. General House-keeping
+Status på igangværende aktiviteter
+Henvendelser ude fra og spørgsmål fra baglandet
+Input til styregruppemødet den følgende Torsdag.
+
+3. Temaer for dagens møde
+
+Evt og kik til næste møde
 
 
-### Møde præsentation og baggrundsmateriale
+### Links til evt. mødepræsentation og baggrundsmateriale
 
-### Dagsorden
-1. Formalia     
-   1. verifikation af deltagere, mødeleder og referent
-   2. godkendelse af referat og dagsorden 
-2. General Housekeeping
-   1. status på Igangværende aktiviteter
-   2. Opfølgning på budget og ressourcer
-   3. Henvendelser udefra & nyt fra ledelsen
-   4. Kort status fra andre forvaltningsorganer
-3. Tema 1: [navn på Temaet]  
-4. Tema 2: [navn på Temaet]  
-5. Tema 3: [navn på Temaet]
-6. Evt. & kik til næste møde
+### Link til beslutningslogs
 
-#### Beslutnings og action logs
-- Link til strategisk beslutningslog 
-- link til architectual descission records 
-- link til risklrisikolog 
 
 
 
