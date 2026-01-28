@@ -1,4 +1,5 @@
-# Dagsorden og referat :   OS2borgerPC koordinationsgruppemøde dd.mm.yyyy
+## Dagsorden og referat
+# OS2borgerPC koordinationsgruppemøde dd.mm.yyyy
 
 **Status**
 - [ ] Mødet kalendersat
