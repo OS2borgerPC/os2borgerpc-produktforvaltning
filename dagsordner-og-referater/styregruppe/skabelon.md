@@ -1,5 +1,5 @@
 ## Dagsorden og referat
-# OS2borgerPC koordinationsgruppemøde dd.mm.yyyy
+# OS2borgerPC styregruppemøde dd.mm.yyyy
 
 **Status**
 - [ ] Referat klar til godkendelse
@@ -7,16 +7,18 @@
 
 ## Mødefakta
   
-**Mødenavn**: OS2borgerpc koordinationsgruppemøde  (Afholdes 1. mandag i måneden)
+**Mødenavn**: OS2borgerpc styregruppemøde  (Afholdes 1. mandag i måneden)
 **Tid**: dd.mm.yyy  kl. Start tid - Slut tid  
 **Sted**: Virtuel
 
 #### Deltagere:
-- [ ] Dennis Borup Jacobsen
-- [ ] Robert Voje
-- [ ] Søren Greising Tølbøll
+- [ ] Thor Dekov Buur
+- [ ] Bo Mathiasen Bladmose
+- [ ] Per Kjær
+- [ ] Toke Leth Laursen
 - [ ] Agnete Moos (Produkt Owner)
-- [ ] Anna-Lis Berg (Produkt koordinator)
+- [ ] Anna-Lis Berg (OS2 sekretariat)
+- [ ] Sofie Søndergaard (produktkoordinator)
 
 
 #### Afbud:
@@ -24,7 +26,7 @@
 
 #### Faciliteret af:
 - [] Agnete Moos (Mødeleder)  
-- [] Agnete Moos (Referent)  
+- [] Sofie Søndergaard (Referent)  
   
 Evt. Observers/ Gæster: 
  
