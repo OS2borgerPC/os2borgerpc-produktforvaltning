@@ -8,7 +8,9 @@
 ## Mødefakta
   
 **Mødenavn**: OS2borgerpc styregruppemøde  (Afholdes 1. mandag i måneden)
+
 **Tid**: dd.mm.yyy  kl. Start tid - Slut tid  
+
 **Sted**: Virtuel
 
 #### Deltagere:
@@ -25,8 +27,8 @@
 - [ ] xxx 
 
 #### Faciliteret af:
-- [] Agnete Moos (Mødeleder)  
-- [] Sofie Søndergaard (Referent)  
+- [ ] Agnete Moos (Mødeleder)  
+- [ ] Sofie Søndergaard (Referent)  
   
 Evt. Observers/ Gæster: 
  
