@@ -19,7 +19,7 @@
 - [ ] Søren Greising Tølbøll
 - [ ] Agnete Moos (Produkt Owner)
 - [ ] Anna-Lis Berg (OS2 sekretariat)
-- [ ] Sofie Søndergaard
+- [ ] Sofie Søndergaard (produktkoordinator)
 
 
 #### Afbud:
