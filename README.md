@@ -1,48 +1,21 @@
 # OS2BorgerPC Produktforvaltning
 
-Dette repository understøtter produktforvaltningen og governance for OS2BorgerPC.  
+Dette repository understøtter produktforvaltningen for OS2BorgerPC.  
 Her samles centrale dokumenter, beslutninger og arbejdsgrundlag, så der er én fælles og transparent kilde for styring og koordinering.
 
-Repository’et er **privat** og har adgang for:
-- OS2BorgerPC Styregruppen
-- OS2BorgerPC Koordinationsgruppen
-- OS2-sekretariatet
----
+## Versionsstyring, transperans og sporbarhed i produktforvaltning
+Os2borgerpc har valgt at understøtte versionsstyring transperans og sprobarhed i produktforvaltninge ved at flytte beslutnings og styringsdokumentation til Git, således at denne dokumentaiton kan knyttes direkte til ændringer i kildekode, contributionguidelines og konfigureringsfiler.
 
-## Formål
+Dette betyder i praksis flg:
 
-Formålet med dette repository er at:
-- sikre fælles overblik over beslutninger og igangværende initiativer
-- dokumentere styring, prioriteringer og produktudvikling
-- understøtte sporbarhed fra beslutninger til epics og opfølgning
-- fungere som fælles arbejdsrum for governance-fora
+Der etableres et forvaltningsrepository i produtkets git organisation til håndtering af:
+- Diskusion og dokumentation af arkitekturprincipper, produktstrategi og samarbejdsmodel (Issue-baseret Beslutningslog )
+- Indberetning evaluering og prioritering af ændringsønsker (Issue baseret backlog)
+- Leveranceledelse og status rapportering
+- Intern Opgavestyring og opfølgning i produktsamarbejdet
+- Årshjul, dagsordner og mødereferater
+- Strategi visioner, roadmaps og udviklingsplaner
+- Godkendte versioner af overnstående gøres offentlig tilgængelig på produktets dokumentations site
 
----
-
-## Indhold
-
-Repository’et indeholder bl.a.:
-
-### 📅 Dagsordener og referater
-- Dagsordener for styregruppe- og koordineringsgruppemøder
-- Referater og beslutningsopsamlinger
-- Eventuelle bilag til møder
-- Godkendte referater offentliggøres på OS2BorgerPC produktsiden
-
-### 📌 Epics
-- Beskrivelse af større initiativer og udviklingsspor
-- Overordnet scope, mål og afhængigheder
-- Reference til beslutninger og prioriteringer
-
-### 🧾 Decision log
-- Log over væsentlige beslutninger
-- Beslutningsdato, beslutningstager og kontekst
-- Eventuelle konsekvenser og opfølgning
-
-### 📄 Øvrige governance-dokumenter
-- Principper, retningslinjer og processer for produktforvaltning
-- Notater og analyser til brug i beslutningsprocesser
-
----
 
 
