@@ -16,7 +16,8 @@
 - [ ] Robert Voje
 - [ ] Søren Greising Tølbøll
 - [ ] Agnete Moos (Produkt Owner)
-- [ ] Anna-Lis Berg (Produkt koordinator)
+- [ ] Anna-Lis Berg (OS2 sekretariat)
+- [ ] Sofie Søndergaard
 
 
 #### Afbud:
@@ -24,7 +25,7 @@
 
 #### Faciliteret af:
 - [] Agnete Moos (Mødeleder)  
-- [] Agnete Moos (Referent)  
+- [] Sofie Søndergaard (Referent)  
   
 Evt. Observers/ Gæster: 
  
