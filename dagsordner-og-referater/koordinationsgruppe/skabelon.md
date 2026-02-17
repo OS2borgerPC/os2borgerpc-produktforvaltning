@@ -8,7 +8,9 @@
 ## Mødefakta
   
 **Mødenavn**: OS2borgerpc koordinationsgruppemøde  (Afholdes 1. mandag i måneden)
+
 **Tid**: dd.mm.yyy  kl. Start tid - Slut tid  
+
 **Sted**: Virtuel
 
 #### Deltagere:
