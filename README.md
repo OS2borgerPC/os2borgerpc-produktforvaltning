@@ -12,7 +12,7 @@ Der etableres et forvaltningsrepository i produtkets git organisation til håndt
 - Diskusion og dokumentation af arkitekturprincipper, produktstrategi og samarbejdsmodel (Issue-baseret Beslutningslog )
 - Indberetning evaluering og prioritering af ændringsønsker (Issue baseret backlog)
 - Leveranceledelse og status rapportering
-- Intern Opgavestyring og opfølgning i produktsamarbejdet
+- Intern opgavestyring og opfølgning i produktsamarbejdet
 - Årshjul, dagsordner og mødereferater
 - Strategi visioner, roadmaps og udviklingsplaner
 - Godkendte versioner af overnstående gøres offentlig tilgængelig på produktets dokumentations site
