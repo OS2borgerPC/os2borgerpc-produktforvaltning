@@ -2,13 +2,8 @@
 # OS2borgerPC koordinationsgruppemøde dd.mm.yyyy
 
 **Status**
-- [ ] Mødet kalendersat
-- [ ] Dagsorden udarbejdet
-- [ ] Referat påbegyndt
 - [ ] Referat klar til godkendelse
 - [ ] Referat godkendt
-- [ ] Referat publiceret  
-
 
 ## Mødefakta
   
