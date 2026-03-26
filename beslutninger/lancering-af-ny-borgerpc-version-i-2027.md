@@ -1,9 +1,9 @@
 # [SDR] Der skal lanceres en ny version af OS2borgerPC i 2027
 
-**Dato**: 2025-12-02
-**Status**: Accepteret
-**Beslutningstagere**: Styregruppen-Koordinationgruppen
-**Beslutningstype**: Strategisk
+- **Dato**: 2025-12-02
+- **Status**: Accepteret
+- **Beslutningstagere**: Styregruppen-Koordinationgruppen
+- **Beslutningstype**: Strategisk
 
 ## Beskrivelse af beslutningen
 
