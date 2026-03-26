@@ -1,5 +1,5 @@
 ## Dagsorden og referat
-# OS2borgerPC koordinationsgruppemøde 13.04.2026
+# OS2borgerPC koordinationsgruppemøde 20.04.2026
 
 **Status**
 - [ ] Referat klar til godkendelse
@@ -9,7 +9,7 @@
   
 **Mødenavn**: OS2borgerpc koordinationsgruppemøde  (Afholdes 1. mandag i måneden)
 
-**Tid**: 13.04.26  kl. 13 - 14.30  
+**Tid**: 20.04.26  kl. 13 - 14.30  
 
 **Sted**: Virtuel
 
