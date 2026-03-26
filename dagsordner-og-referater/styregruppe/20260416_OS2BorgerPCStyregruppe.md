@@ -1,5 +1,5 @@
 ## Dagsorden og referat
-# OS2borgerPC styregruppemøde dd.mm.yyyy
+# OS2borgerPC styregruppemøde 16.04.2026
 
 **Status**
 - [ ] Referat klar til godkendelse
@@ -9,7 +9,7 @@
   
 **Mødenavn**: OS2borgerpc styregruppemøde  (Afholdes 1. mandag i måneden)
 
-**Tid**: dd.mm.yyy  kl. Start tid - Slut tid  
+**Tid**: 16.04.2026  kl. 13 - 14:30  
 
 **Sted**: Virtuel
 
