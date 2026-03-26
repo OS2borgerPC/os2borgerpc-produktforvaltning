@@ -1,9 +1,9 @@
 # [ODR]Sønderborg medarbejdere frikøbes til produktforvaltning
 
-**Dato**: 2025-02-10
-**Status**: Accepteret
-**Beslutningstagere**: Styregruppen
-**Beslutningstype**: Operationel
+- **Dato**: 2025-02-10
+- **Status**: Accepteret
+- **Beslutningstagere**: Styregruppen
+- **Beslutningstype**: Operationel
 
 ## Beskrivelse af Beslutningen
 
