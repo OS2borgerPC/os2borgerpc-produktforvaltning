@@ -1,9 +1,9 @@
 # [ODR]Fuld stop for nyudvikling og opgradering
 
-**Dato**: 2025-06-15
-**Status**: Accepteret
-**Beslutningstagere**: Koordinationsgruppen
-**Beslutningstype**: Operationel
+- **Dato**: 2025-06-15
+- **Status**: Accepteret
+- **Beslutningstagere**: Koordinationsgruppen
+- **Beslutningstype**: Operationel
 
 ## Beskrivelse af Beslutningen
 
