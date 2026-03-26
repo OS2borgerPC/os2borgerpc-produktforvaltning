@@ -4,10 +4,10 @@
 
 Agnete har tidligere været frikøbt 5 timer om ugen. Det er besluttet af frikøbsaftale forlænges i 2025. Det vil koste ca. 25.000 kr.
 
-**Dato**: 2025-03-17
-**Status**: Accepteret
-**Beslutningstagere**: Koordinationsgruppen
-**Beslutningstype**: Operationel
+- **Dato**: 2025-03-17
+- **Status**: Accepteret
+- **Beslutningstagere**: Koordinationsgruppen
+- **Beslutningstype**: Operationel
 
 ## Kontekst/ Årsag
 
