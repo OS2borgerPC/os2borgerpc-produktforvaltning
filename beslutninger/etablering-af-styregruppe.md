@@ -1,9 +1,9 @@
 # [SDR]Der skal etableres en styregruppe
 
-**Dato**: 2025-06-15
-**Status**: Accepteret
-**Beslutningstagere**: Koordinationsgruppen
-**Beslutningstype**: Strategisk
+- **Dato**: 2025-06-15
+- **Status**: Accepteret
+- **Beslutningstagere**: Koordinationsgruppen
+- **Beslutningstype**: Strategisk
 
 ## Kontekst/ Årsag
 
