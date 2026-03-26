@@ -1,9 +1,9 @@
 # Aflysning af Brugerklubmøder i 2025
 
-**Dato**: 2025-02-02
-**Status**: Accepteret
-**Beslutningstagere**: Koordinationsgruppen
-**Beslutningstype**: Strategisk
+- **Dato**: 2025-02-02
+- **Status**: Accepteret
+- **Beslutningstagere**: Koordinationsgruppen
+- **Beslutningstype**: Strategisk
 
 ## Beskrivelse af Beslutningen
 
