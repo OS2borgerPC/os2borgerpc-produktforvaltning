@@ -54,7 +54,7 @@ Vi erstatter håndbygget kode med hyldevarer. Herunder skitseres hvordan teknolo
 - OS2BorgerPC Client: UDGÅR. Erstattes med Bootc grundfunktionalitet og Ansible-pull infrastruktur.
 - OS2BorgerPC Image: Image baseres på Universal Blue-projektets base image (silverblue-main). Vil skulle tilpasses med ca. 1500 linjers kode hvoraf 90% kan kopieres fra andre projekter i samme univers.
 - OS2BorgerPC Kiosk Image: Baseres på et base image uden GUI. F. eks. Fedora IoT. Vil kræve ca. 500 kodelinjers tilpasning.
-- OS2BorgerPC Core Scripts: UDGÅR. Funktionalitet indbygges i image. Det der ikke egner sig hertil, implementeres i Ansible playbooks (~ 1000 kodelinjer)
+- OS2BorgerPC Core Scripts: UDGÅR. Funktionalitet indbygges i image. Det der ikke egner sig hertil, implementeres i Ansible playbooks. Lokale playbooks, der svarer til lokale scripts, vil kunne tilføjes af hver kommune. (~ 1000 kodelinjer)
 
 **I alt ca. 3000 linjers kode (4% af det nuværende system)**
 
