@@ -45,6 +45,8 @@ Hver ny release/image kræver håndholdte tilretninger mange steder i koden. Det
 
 **I alt 81.232 linjers kode**
 
+---
+
 ### Hvorfor er immutable Linux, Bootc og Ansible-pull en velegnet teknologisk platform til OS2BorgerPC V3?
 Vi erstatter håndbygget kode med hyldevarer. Herunder skitseres hvordan teknologierne bringes i anvendelse og hvordan de skal forstås i forhold til nuværende begrebsunivers.
 
@@ -58,12 +60,15 @@ Vi erstatter håndbygget kode med hyldevarer. Herunder skitseres hvordan teknolo
 
 En lille kodebase gør det billigt og nemt at lave nye releases og alternative image versioner (som f. eks. ARM-udgaver af images eller special-distributioner som f. eks. en kursist-pc)
 
+---
 
 ### Hvad med Nornnet-projektet, når prototypen laves med United Blue-projektets base image og byggeinfrastruktur?
 For at arbejde med immutable Linux-images skal man have en byggeinfrastruktur og et base image. Uden det kommer man ingen vegne. For at komme hurtigt i gang med en OS2BorgerPC V3 prototype, giver det mening, at vi kobler os på en eksisterende infrastruktur, som er klar til brug her og nu. 
 
 United Blue infrastrukturen er meget benyttet og populær. Kendte distributioner der bygger på den er Aurora, Bluefin og Bazzite. 
 United Blue base image bygger oven på Fedora Silverblue, så vi vil relativt nemt kunne udskifte base image og byggeinfrastruktur med et andet Fedora-baseret grundlag, hvis vi ønsker det. Prototypen vil give os værdifuld indsigt i hvilke krav OS2BorgerPC-produktet stiller til et base image.
+
+---
 
 ### Hvordan kan Sønderborg tilbyde at bygge en prototype helt gratis?
 Frem til januar 2027 er Agnete mentor for en IT-studerende fra uddannelsen AspIT. Det er en IT-uddannelse, der er skræddersyet til unge med autisme. Vi har været så heldige at få en ung mand i praktik, Bartosz, der interesserer sig for Linux og er meget lærenem. Han er hos os 20 timer/uge og har OS2BorgerPC-prototypen som sin primære opgave.
