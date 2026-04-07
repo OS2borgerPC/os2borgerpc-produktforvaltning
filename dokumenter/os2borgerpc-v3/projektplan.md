@@ -3,8 +3,8 @@
 ## Udkast til krav
 
 [Teknologineutral funktionsbeskrivelse af en BorgerPC](krav.md)
-Det er med udgangspunkt i den, at prototypen bygges.
 
+Det er med udgangspunkt i den, at prototypen bygges.
 
 
 ## Projektplan (Udkast)
