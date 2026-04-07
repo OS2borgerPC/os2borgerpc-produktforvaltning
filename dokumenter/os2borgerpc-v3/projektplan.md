@@ -2,10 +2,10 @@
 
 ## Udkast til krav
 
-Udkast til en teknologineutral funktionsbeskrivelse af en BorgerPC.
-Det er med udgangspunkt i den at prototypen bygges.
+[Teknologineutral funktionsbeskrivelse af en BorgerPC](krav.md)
+Det er med udgangspunkt i den, at prototypen bygges.
 
-[Funktionsbeskrivelse af en BorgerPC](krav.md)
+
 
 ## Projektplan (Udkast)
 
@@ -42,8 +42,8 @@ Hver ny release/image kræver håndholdte tilretninger mange steder i koden. Det
 - OS2BorgerPC Image: 3688 linjers kode fordelt på 36 filer
 - OS2BorgerPC Kiosk: 656 linjers kode fordelt på 22 filer
 - OS2BorgerPC Core Scripts: 6118 linjers kode fordelt på 167 filer
----
-I alt 81.232 linjers kode
+
+**I alt 81.232 linjers kode**
 
 ### Hvorfor er immutable Linux, Bootc og Ansible-pull en velegnet teknologisk platform til OS2BorgerPC V3?
 Vi erstatter håndbygget kode med hyldevarer. Herunder skitseres hvordan teknologierne bringes i anvendelse og hvordan de skal forstås i forhold til nuværende begrebsunivers.
@@ -53,8 +53,8 @@ Vi erstatter håndbygget kode med hyldevarer. Herunder skitseres hvordan teknolo
 - OS2BorgerPC Image: Image baseres på Universal Blue-projektets base image (silverblue-main). Vil skulle tilpasses med ca. 1500 linjers kode hvoraf 90% kan kopieres fra andre projekter i samme univers.
 - OS2BorgerPC Kiosk Image: Baseres på et base image uden GUI. F. eks. Fedora IoT. Vil kræve ca. 500 kodelinjers tilpasning.
 - OS2BorgerPC Core Scripts: UDGÅR. Funktionalitet indbygges i image. Det der ikke egner sig hertil, implementeres i Ansible playbooks (~ 1000 kodelinjer)
----
-I alt ca. 3000 linjers kode (4% af det nuværende system)
+
+**I alt ca. 3000 linjers kode (4% af det nuværende system)**
 
 En lille kodebase gør det billigt og nemt at lave nye releases og alternative image versioner (som f. eks. ARM-udgaver af images eller special-distributioner som f. eks. en kursist-pc)
 
