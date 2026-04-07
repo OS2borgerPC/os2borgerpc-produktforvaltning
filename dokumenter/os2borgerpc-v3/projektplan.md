@@ -14,7 +14,7 @@ Det er med udgangspunkt i den at prototypen bygges.
 | :--- | :--- | :--- | :--- |
 | Primo juni (uge 23). Præsentation på koordinations- og styregruppemøde. | Prototype iteration 1 | Sønderborg | Gratis |
 | Primo juli (uge 28). Præsentation på koordinations- og styregruppemøde. | Prototype iteration 2  | Sønderborg | Gratis |
-| August | **Beslutningspunkt: ØNSKER VI AT FORTSÆTTE?** | - | - |
+| **Beslutningspunkt: ØNSKER VI AT FORTSÆTTE?** | - | - |
 | August | Eksternt code review, vurdering af prototypens mangler i forhold til driftsparathed | Leverandør. Evt KvalitetsIT | Mindre beløb til leverandør |
 | **Beslutningspunkt: ØNSKER VI AT FORTSÆTTE?** | - | - | - |
 | **Ved fortsættelse** | Driftsmodning og test | Leverandør, Sønderborg | Større beløb til leverandør |
