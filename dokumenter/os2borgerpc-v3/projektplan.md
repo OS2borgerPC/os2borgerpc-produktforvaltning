@@ -6,7 +6,9 @@
 
 Det er med udgangspunkt i den, at prototypen bygges.
 
-## Visualisering af løsning
+## Arkitektur i løsningen
+
+Er bygget efter principperne skitseret i NornNet-projektet:
 
 - TOP LAG:  Sikker Selvbetjening Config Layer Image (bygges automatisk for hvert konfigurationssetup i hver kommune) 
 - MELLEM LAG: Sikker Selvbetjening Image (fælles for alle kommuner)
