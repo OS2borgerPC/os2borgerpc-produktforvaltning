@@ -1,4 +1,4 @@
-# Forslag til projektplan for OS2BorgerPC v3
+# Forslag til projektplan for Sikker Selvbetjening (OS2BorgerPC v3)
 
 ## Udkast til krav
 
@@ -6,14 +6,23 @@
 
 Det er med udgangspunkt i den, at prototypen bygges.
 
+## Visualisering af løsning
+
+TOP LAG:  Sikker Selvbetjening Config Layer Image (bygges automatisk for hvert konfigurationssetup i hver kommune) 
+MELLEM LAG: Sikker Selvbetjening Image (fælles for alle kommuner)
+BASE LAG: Fedora Silverblue base image - skal evt. udskiftes med base image fra NornNet-projektet på et tidspunkt
+
+Hver kommune har deres eget Sikker Selvbetjening Config Layer Git repository. Her styrer de grupper og konfigurationer i yaml-config.
+Når der gemmes ny config (commit) går der automatisk byggeprocesser i gang der bygger den kommunes nye image-sæt. Hver PC opdager selv at der er en ny version af det image, det er tilknyttet (f. eks. Broager Bibliotek eller Borgerservice) og hiver det ned og installerer det automatisk.
 
 ## Projektplan (Udkast)
 
 
 | Deadline | Opgave | Involverede | Pris |
 | :--- | :--- | :--- | :--- |
-| Primo juni (uge 23). Præsentation på koordinations- og styregruppemøde. | Prototype iteration 1 | Sønderborg | Gratis |
-| Primo juli (uge 28). Præsentation på koordinations- og styregruppemøde. | Prototype iteration 2  | Sønderborg | Gratis |
+| Midt april (uge 17). Præsentation på koordinations- og styregruppemøde. | Prototype iteration 1 | Sønderborg | Gratis |
+| Primo juni (uge 23). Præsentation på koordinations- og styregruppemøde. | Prototype iteration 2 | Sønderborg | Gratis |
+| Primo juli (uge 28). Præsentation på koordinations- og styregruppemøde. | Prototype iteration 3  | Sønderborg | Gratis |
 | **Beslutningspunkt: ØNSKER VI AT FORTSÆTTE?** | - | - |
 | **Ved fortsættelse** August | Eksternt code review. Vurdering af prototypens mangler i forhold til driftsparathed | Leverandør. Evt KvalitetsIT | Mindre beløb til leverandør |
 | **Beslutningspunkt: ØNSKER VI AT FORTSÆTTE?** | - | - | - |
@@ -21,8 +30,10 @@ Det er med udgangspunkt i den, at prototypen bygges.
 
 ### Indhold af prototype 1
 
-- BorgerPC image bygget på United Blue-projektets base-image, der hedder silverblue-main med borgerpc-specifikke tilretninger af desktop
-- Infrastruktur med automatisk byg af image og ISO baseret på United Blues image-template
+- Sikker-selvbetjening image med borgerpc-funktionalitet. Bygges med Fedora Silverblue som base-image
+- Sikker-selvbetjening-config image. Hver kommune har deres eget sikker-selvbetjenings-config miljø. Der bygges et automatisk et config-image med sikker-selvbetjening som base-image for hvert konfigurationssetup i en kommune. Her ligger f. eks. printerkonfiguration, wifi config, browser indstillinger, baggrundsbilleder osv.
+- Infrastruktur med automatisk byg af image
+
 - Opsætning af Ansible repository med eksempel-playbooks til f. eks. printerinstallation.
 - Service der sikrer konsistent deployment af Ansible Playbooks.
 
