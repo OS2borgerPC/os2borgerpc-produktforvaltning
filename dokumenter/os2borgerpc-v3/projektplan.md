@@ -36,12 +36,12 @@ Når der gemmes ny config (commit) går der automatisk byggeprocesser i gang der
 - Sikker-selvbetjening-config image. Hver kommune har deres eget sikker-selvbetjenings-config miljø. Der bygges et automatisk et config-image med sikker-selvbetjening som base-image for hvert konfigurationssetup i en kommune. Her ligger f. eks. printerkonfiguration, wifi config, browser indstillinger, baggrundsbilleder osv.
 - Infrastruktur med automatisk byg af image
 
-- Opsætning af Ansible repository med eksempel-playbooks til f. eks. printerinstallation.
-- Service der sikrer konsistent deployment af Ansible Playbooks.
-
 ### Indhold af prototype 2
+Hvad synes I?
+
+Forslag:
 - Borger-brugeren med oprydning og autologin
-- Erstatning for Tænd/sluk tidsplan
+- Tænd/sluk tidsplan
 - Kiosk image
 
 ## Spørgsmål og svar
@@ -60,18 +60,14 @@ Hver ny release/image kræver håndholdte tilretninger mange steder i koden. Det
 
 ---
 
-### Hvorfor er immutable Linux, Bootc og Ansible-pull en velegnet teknologisk platform til OS2BorgerPC V3?
-Vi erstatter håndbygget kode med hyldevarer. Herunder skitseres hvordan teknologierne bringes i anvendelse og hvordan de skal forstås i forhold til nuværende begrebsunivers.
-
-- OS2BorgerPC Admin: UDGÅR. Erstattes med standard grafisk brugergrænseflade til Ansible-pull og standardsystemer til driftsovervågning.
-- OS2BorgerPC Client: UDGÅR. Erstattes med Bootc grundfunktionalitet og Ansible-pull infrastruktur.
-- OS2BorgerPC Image: Image baseres på Universal Blue-projektets base image (silverblue-main). Vil skulle tilpasses med ca. 1500 linjers kode hvoraf 90% kan kopieres fra andre projekter i samme univers.
-- OS2BorgerPC Kiosk Image: Baseres på et base image uden GUI. F. eks. Fedora IoT. Vil kræve ca. 500 kodelinjers tilpasning.
-- OS2BorgerPC Core Scripts: UDGÅR. Funktionalitet indbygges i image. Det der ikke egner sig hertil, implementeres i Ansible playbooks. Lokale playbooks, der svarer til lokale scripts, vil kunne tilføjes af hver kommune. (~ 1000 kodelinjer)
+### Hvorfor er immutable Linux med bootc velegnet som teknologisk platform til OS2BorgerPC V3?
+Vi erstatter håndbygget kode med hyldevarer. Dvs. at der nærmest kun er konfiguration og meget lidt programkode.
+Jeg har kigget på tilsvarende projekter og 
 
 **I alt ca. 3000 linjers kode (4% af det nuværende system)**
 
 En lille kodebase gør det billigt og nemt at lave nye releases og alternative image versioner (som f. eks. ARM-udgaver af images eller special-distributioner som f. eks. en kursist-pc)
+En anden fordel er at vi fuldstændig undgår små konfigurations-forskelle mellem pcer. De er altid up-to-date på nyeste version og pcer i samme grupper, er altid helt ens. 
 
 ---
 
