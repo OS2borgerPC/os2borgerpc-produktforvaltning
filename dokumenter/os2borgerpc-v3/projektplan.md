@@ -1,22 +1,5 @@
 # Forslag til projektplan for Sikker Selvbetjening (OS2BorgerPC v3)
 
-## Funktionelle krav
-
-[Teknologineutral funktionsbeskrivelse af en BorgerPC](krav.md)
-
-Det er med udgangspunkt i den, at prototypen bygges.
-
-## Arkitektur i løsningen
-
-Er bygget efter principperne skitseret i NornNet-projektet:
-
-- TOP LAG:  Sikker Selvbetjening Config Layer Image (bygges automatisk for hvert konfigurationssetup i hver kommune) 
-- MELLEM LAG: Sikker Selvbetjening Image (fælles for alle kommuner)
-- BASE LAG: Fedora Silverblue base image - skal evt. udskiftes med base image fra NornNet-projektet på et tidspunkt
-
-Hver kommune har deres eget Sikker Selvbetjening Config Layer Git repository. Her styrer de grupper og konfigurationer i yaml-config.
-Når der gemmes ny config (commit) går der automatisk byggeprocesser i gang der bygger den kommunes nye image-sæt. Hver PC opdager selv at der er en ny version af det image, det er tilknyttet (f. eks. Broager Bibliotek eller Borgerservice) og hiver det ned og installerer det automatisk.
-
 ## Projektplan
 
 
@@ -43,6 +26,23 @@ Forslag:
 - Borger-brugeren med oprydning og autologin
 - Tænd/sluk tidsplan
 - Kiosk image
+
+## Funktionelle krav
+
+[Teknologineutral funktionsbeskrivelse af en BorgerPC](krav.md)
+
+Det er med udgangspunkt i den, at prototypen bygges.
+
+## Arkitektur i løsningen
+
+Er bygget efter principperne skitseret i NornNet-projektet:
+
+- TOP LAG:  Sikker Selvbetjening Config Layer Image (bygges automatisk for hvert konfigurationssetup i hver kommune) 
+- MELLEM LAG: Sikker Selvbetjening Image (fælles for alle kommuner)
+- BASE LAG: Fedora Silverblue base image - skal evt. udskiftes med base image fra NornNet-projektet på et tidspunkt
+
+Hver kommune har deres eget Sikker Selvbetjening Config Layer Git repository. Her styrer de grupper og konfigurationer i yaml-config.
+Når der gemmes ny config (commit) går der automatisk byggeprocesser i gang der bygger den kommunes nye image-sæt. Hver PC opdager selv at der er en ny version af det image, det er tilknyttet (f. eks. Broager Bibliotek eller Borgerservice) og hiver det ned og installerer det automatisk.
 
 ## Spørgsmål og svar
 
