@@ -5,9 +5,7 @@ date: "01-02-2025"
 
 ---
 
-# UDKAST: Krav til OS2BorgerPC 3
-
-
+# Krav til OS2BorgerPC 3
 
 #### Interessenter
 - Bruger: Borger, der bruger en BorgerPC til digital selvbetjening, print mv.
