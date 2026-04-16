@@ -8,9 +8,9 @@ Det er med udgangspunkt i den, at prototypen bygges.
 
 ## Visualisering af løsning
 
-TOP LAG:  Sikker Selvbetjening Config Layer Image (bygges automatisk for hvert konfigurationssetup i hver kommune) 
-MELLEM LAG: Sikker Selvbetjening Image (fælles for alle kommuner)
-BASE LAG: Fedora Silverblue base image - skal evt. udskiftes med base image fra NornNet-projektet på et tidspunkt
+- TOP LAG:  Sikker Selvbetjening Config Layer Image (bygges automatisk for hvert konfigurationssetup i hver kommune) 
+- MELLEM LAG: Sikker Selvbetjening Image (fælles for alle kommuner)
+- BASE LAG: Fedora Silverblue base image - skal evt. udskiftes med base image fra NornNet-projektet på et tidspunkt
 
 Hver kommune har deres eget Sikker Selvbetjening Config Layer Git repository. Her styrer de grupper og konfigurationer i yaml-config.
 Når der gemmes ny config (commit) går der automatisk byggeprocesser i gang der bygger den kommunes nye image-sæt. Hver PC opdager selv at der er en ny version af det image, det er tilknyttet (f. eks. Broager Bibliotek eller Borgerservice) og hiver det ned og installerer det automatisk.
