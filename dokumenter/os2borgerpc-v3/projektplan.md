@@ -1,6 +1,6 @@
 # Forslag til projektplan for Sikker Selvbetjening (OS2BorgerPC v3)
 
-## Udkast til krav
+## Funktionelle krav
 
 [Teknologineutral funktionsbeskrivelse af en BorgerPC](krav.md)
 
@@ -17,7 +17,7 @@ Er bygget efter principperne skitseret i NornNet-projektet:
 Hver kommune har deres eget Sikker Selvbetjening Config Layer Git repository. Her styrer de grupper og konfigurationer i yaml-config.
 Når der gemmes ny config (commit) går der automatisk byggeprocesser i gang der bygger den kommunes nye image-sæt. Hver PC opdager selv at der er en ny version af det image, det er tilknyttet (f. eks. Broager Bibliotek eller Borgerservice) og hiver det ned og installerer det automatisk.
 
-## Projektplan (Udkast)
+## Projektplan
 
 
 | Deadline | Opgave | Involverede | Pris |
