@@ -35,6 +35,8 @@ Evt. Observers/ Gæster:
 #### 1. Formalia
 - 1.1 Verificering af tilstedeværelse, mødeleder og referent
 - 1.2 Godkendelse af referat og dagsorden
+  Seneste koordinationsgruppemøde var den 2/2-2026 og referat ligger i rulledagsorden.
+  https://boks.os2.eu/apps/files/files/220535?dir=/borgerpc/KOORDINATIONSGRUPPENS%20MAPPE%20%28%C3%85BEN%29&editing=false&openfile=true
 
 #### 2. General House-keeping
 - 2.1 Status på igangværende aktiviteter
