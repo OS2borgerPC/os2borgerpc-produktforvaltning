@@ -42,9 +42,13 @@ Evt. Observers/ Gæster:
 - 2.3 Input til styregruppemødet den følgende Torsdag.
 
 #### 3. Temaer for dagens møde
-- 3.1 Orientering om GitHub skriveadgang til dagsordener.
-- 3.2 Orientering om beslutningslog på GitHub.
-- 
+- 3.1 Orientering om [dagsordener og referater på Github](https://os2borgerpc.os2.eu/docs/produktforvaltning/referater.html) .
+- 3.2 Orientering om [beslutningslog på GitHub](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/tree/main/beslutninger).
+- 3.3 snak om forslag til [prototype projektplan](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/dokumenter/os2borgerpc-v3/projektplan.md)
+- 3.4 Snak om forslag til [prototype kravspecifikation](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/dokumenter/os2borgerpc-v3/krav.md)
+- 3.5 Demonstration af prototype
+- 3.6 Hvad skal i fokus i næste prototype iteration?
+- 3.7 Skal vi aflyse mødet den 4. maj eller alternetivt skubbe det til senere i maj
 Evt og kik til næste møde
 
 
