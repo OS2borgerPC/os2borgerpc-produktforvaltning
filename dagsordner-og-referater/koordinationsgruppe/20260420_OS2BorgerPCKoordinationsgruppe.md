@@ -110,7 +110,7 @@ Anete demonstrerede hvordan en lokal konfigurationsændring bliver til nyt image
 
 Forslag om at bringe prototype til niveau, så den kan afprøves i en kommune.
 
-Det blev besluttet at Agnete hos OS2-sekretariatet bestiller tre repos i OS2-sanskasse: domændespecifik, konfigurationstemplate samt eksempelkonfiguration. 
+Det blev besluttet at Agnete hos OS2-sekretariatet bestiller to repos i OS2-sandkasse: et til domænespecifikt image og et til konfigurationstemplate. 
   
 > - 3.7 Skal vi aflyse mødet den 4. maj eller alternetivt skubbe det til senere i maj
 
