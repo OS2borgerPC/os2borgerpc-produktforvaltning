@@ -9,9 +9,9 @@
 | Primo juni (uge 23). Præsentation på koordinations- og styregruppemøde. | Prototype iteration 2 | Sønderborg | Gratis |
 | Primo juli (uge 28). Præsentation på koordinations- og styregruppemøde. | Prototype iteration 3  | Sønderborg | Gratis |
 | **Beslutningspunkt: ØNSKER VI AT FORTSÆTTE?** | - | - |
-| **Ved fortsættelse** August | Bestilling af tilstandsrapport. Hvad skal der til for at Sikker Selvbetjening kan erstatte OS2BorgerPC? Vi betaler en leverandør for at lave en grundig vurdering af prototypen og det der mangler. | Leverandør | For et mindre beløb køber vi en leverandør til en udarbejde en tilstandsrapport med tilhørende tilbud på manglerne |
+| **Ved fortsættelse** August | **Bestilling af tilstandsrapport.** Vi betaler en leverandør for at lave en grundig vurdering af prototypen og en mangelliste med overslag på, hvad det koster at udbedre. | Leverandør |Mindre beløb til tilstandsrapport |
 | **Beslutningspunkt: ØNSKER VI AT FORTSÆTTE?** | - | - | - |
-| **Ved fortsættelse** | Vi går hele vejen og køber en leverandør til at bygge den færdige løsning med udgangspunkt i anbefalingerne fra tilstandsrapporten  | Leverandør | Større beløb til udvikling af driftsklart produkt |
+| **Ved fortsættelse** | **Driftsmodning.** Vi bestiller en eller flere leverandører til at bygge den færdige løsning med udgangspunkt i anbefalingerne fra tilstandsrapporten  | Leverandører | Større beløb til udvikling af driftsklart produkt |
 
 ### Indhold af prototype 1
 
