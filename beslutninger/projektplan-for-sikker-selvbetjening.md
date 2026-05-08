@@ -1,4 +1,4 @@
-# [SDR] Godkendelse af projektplan for Os2BorgerPC v3 (arbejdstitel Sikker Selvbetjening)
+# [SDR] Godkendelse af projektplan for OS2BorgerPC v3 (arbejdstitel Sikker Selvbetjening)
 
 - **Dato**: 2025-12-02
 - **Status**: Udkast
