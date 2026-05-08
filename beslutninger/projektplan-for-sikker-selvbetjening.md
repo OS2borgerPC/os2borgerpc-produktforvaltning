@@ -1,21 +1,19 @@
----
-layout: default
-title: Godkendelse af projektplan for Sikker selvbetjening
-parent: Beslutninger
-nav_order: 999
----
+# [SDR] Godkendelse af projektplan for Sikker selvbetjening
 
-# Godkendelse af projektplan for Sikker selvbetjening
+- **Dato**: 2025-12-02
+- **Status**: Udkast
+- **Beslutningstagere**: Styregruppen
+- **Beslutningstype**: Strategisk
 
-## Status
 
-Forslag
 
-## Context
+## Kontekst
 
-Styregruppen godkendte tidligere beslutningen om lancering af en ny version af OS2borgerPC i 2027. Beslutningen fastlagde den overordnede retning for modernisering og videreudvikling af platformen, herunder målet om at etablere en ny generation af OS2borgerPC baseret på moderne arkitektur, forbedret fleksibilitet og øget leverandøruafhængighed.
+Styregruppen har tidligere godkendt beslutning om lancering af en ny version af OS2borgerPC i 2027. Beslutningen fastlagde den overordnede retning for modernisering og videreudvikling af platformen, herunder målet om at etablere en ny generation af OS2borgerPC baseret på moderne arkitektur, forbedret fleksibilitet og øget leverandøruafhængighed.
 
-På baggrund af denne beslutning er der udarbejdet en konkret projektplan for gennemførelsen af OS2borgerPC v3-projektet. Projektplanen beskriver blandt andet:
+På baggrund af denne beslutning er der udarbejdet en konkret projektplan for gennemførelsen af OS2borgerPC v3-projektet og det har fået arbejdstitlen Sikker Selvbetjening.
+
+Projektplanen beskriver blandt andet:
 
 - Projektets faser og milepæle
 - Organisering og ansvar
@@ -25,7 +23,7 @@ På baggrund af denne beslutning er der udarbejdet en konkret projektplan for ge
 
 Projektplanen skal fungere som styringsgrundlag for det videre arbejde frem mod lanceringen i 2027.
 
-## Decision
+## Beslutning
 
 Styregruppen godkender projektplanen for OS2borgerPC v3 som det styrende grundlag for projektets gennemførelse.
 
@@ -37,7 +35,7 @@ Beslutningen baserer sig på den tidligere godkendte beslutning:
 
 - [Lancering af ny borgerPC-version i 2027](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/lancering-af-ny-borgerpc-version-i-2027.md)
 
-## Consequences
+## Konsekvenser
 
 Godkendelsen betyder, at:
 
