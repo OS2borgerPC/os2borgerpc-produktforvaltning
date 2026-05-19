@@ -38,7 +38,7 @@ Evt. Observers/ Gæster:
 - 1.2 Godkendelse af referat og dagsorden
 - 1.3 Status beslutningsforslag udsendt pr mail den 19. maj 2026
 
-#### 2. Teamer for dagens møde
+#### 2. Temaer for dagens møde
 - 2.1
 - 2.2
 - 2.3 Anna-Lis:	Produktforvaltning og produktvedligehold - next step for overdragelse / kort redegørelse
