@@ -37,14 +37,12 @@ Evt. Observers/ Gæster:
 - 1.1 Verificering af tilstedeværelse, mødeleder og referent
 - 1.2 Godkendelse af referat og dagsorden
 
-#### 2. General House-keeping
-- 2.1 Status på igangværende aktiviteter
-- 2.2 Henvendelser ude fra og spørgsmål fra baglandet
-- 2.3 Input til styregruppemødet den følgende Torsdag.
+#### 2. Teamer for dagens møde
+- 2.1 
 
-#### 3. Temaer for dagens møde
+#### 3. Evt og kik til næste møde
 
-Evt og kik til næste møde
+
 
 
 #### Links til evt. mødepræsentation og baggrundsmateriale
