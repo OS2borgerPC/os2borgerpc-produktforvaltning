@@ -14,21 +14,22 @@
 **Sted**: Virtuel
 
 #### Deltagere:
-- [ ] Thor Dekov Buur
+- [x] Thor Dekov Buur
 - [ ] Bo Mathiasen Bladmose
-- [ ] Per Kjær
+- [x] Per Kjær
 - [ ] Toke Leth Laursen
-- [ ] Agnete Moos (Produkt Owner)
+- [x] Agnete Moos (Produkt Owner)
 - [ ] Anna-Lis Berg (OS2 sekretariat)
-- [ ] Sofie Søndergaard (produktkoordinator)
+- [x] Sofie Søndergaard (produktkoordinator)
 
 
 #### Afbud:
-- [ ] xxx 
+- [x] Toke Leth Laursen
+- [x] Bo Mathiasen Bladmose
 
 #### Faciliteret af:
-- [ ] Agnete Moos (Mødeleder)  
-- [ ] Sofie Søndergaard (Referent)  
+- [x] Agnete Moos (Mødeleder)  
+- [x] Sofie Søndergaard (Referent)  
   
 Evt. Observers/ Gæster: 
  
