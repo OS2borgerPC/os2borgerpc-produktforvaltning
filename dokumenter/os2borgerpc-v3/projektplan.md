@@ -9,7 +9,7 @@
 | Primo juni (uge 23). Præsentation på koordinations- og styregruppemøde. | Prototype iteration 2 | Sønderborg | Gratis |
 | Primo juli (uge 28). Præsentation på koordinations- og styregruppemøde. | Prototype iteration 3  | Sønderborg | Gratis |
 | **Beslutningspunkt: ØNSKER VI AT FORTSÆTTE?** | - | - |
-| **Ved fortsættelse** August | **Bestilling af tilstandsrapport.** Vi betaler en leverandør for at lave en grundig vurdering af prototypen og en mangelliste med overslag på, hvad det koster at udbedre. | Leverandør |Mindre beløb til tilstandsrapport |
+| **Ved fortsættelse** August | **Bestilling af tilstandsrapport.** Vi får lavet en grundig vurdering af prototypen og en mangelliste med overslag på, hvad det koster at udbedre. | Leverandører |Mindre beløb til tilstandsrapport |
 | **Beslutningspunkt: ØNSKER VI AT FORTSÆTTE?** | - | - | - |
 | **Ved fortsættelse** | **Driftsmodning.** Vi bestiller en eller flere leverandører til at bygge den færdige løsning med udgangspunkt i anbefalingerne fra tilstandsrapporten  | Leverandører | Større beløb til udvikling af driftsklart produkt |
 
@@ -20,9 +20,6 @@
 - Infrastruktur med automatisk byg af image
 
 ### Indhold af prototype 2
-Hvad synes I?
-
-Forslag:
 - Borger-brugeren med oprydning og autologin
 - Tænd/sluk tidsplan
 - Kiosk image
