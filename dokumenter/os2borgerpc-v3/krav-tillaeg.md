@@ -31,5 +31,6 @@ Mulighed for adgang til en konfigurationsfil til core-image, som vi kan overskri
 ---
 
 Fra Aarhus:
+
 https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/dokumenter/os2borgerpc-v3/Brugerhistorier%20om%20BorgerPC%20fra%20Aarhus.pdf
 
