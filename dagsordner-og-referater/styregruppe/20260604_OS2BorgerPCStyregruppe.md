@@ -48,10 +48,6 @@ Evt. Observers/ Gæster:
 - 2.8  OS2's styringsmodel - tid til self-assesment  jvf mail fra Rasmus den 11 maj  : https://audit.os2.eu/docs/evaluering/selvevaluering-formular.html.
 - 2.9 Status på OS2BorgerPC selvevaluering (Agnete / Thor)
 
-    - Intro https://www.os2.eu/governance
-    - Evaluering af OS2-produkt-  udfyldes for BorgerPC V3:  https://github.com/OS2offdig/governance_report_template/blob/main/assessment_template.md
-    - Governance report - bruges til at vurdere organisatorisk modenhed i produktfællesskaber: https://github.com/OS2offdig/governance_report_template/blob/main/governance_template.md
-
 #### 3. Evt og kik til næste møde
 
 
