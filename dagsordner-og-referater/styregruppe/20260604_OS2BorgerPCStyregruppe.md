@@ -39,12 +39,15 @@ Evt. Observers/ Gæster:
 - 1.3 Status beslutningsforslag udsendt pr mail den 19. maj 2026
 
 #### 2. Temaer for dagens møde
-- 2.1
-- 2.2
-- 2.3 Anna-Lis:	Produktforvaltning og produktvedligehold - next step for overdragelse / kort redegørelse
-- 2.4 Anna-Lis: BorgerPC POC. Status og next step for overdragelse /kort redegørelse
-- 2.5 Anna-Lis: Anbefaling om åben leverancemodel for fremtidige udviklingsaktiviteter: https://janhalen.github.io/enterprise-architecture-patterns/guides/%C3%A5ben-leverancemodel.html
-- 2.6 Anna-Lis: OS2's styringsmodel - tid til self-assesment
+- 2.1 Opfølgning på OS2Årsmødet (Agnete / Thor)
+- 2.2 Status på OS2BorgerPC selvevaluering (Agnete / Thor)
+- 2.3 Staus på medlemmer og deres driftsforhold (Agnete)
+- 2.4 Beslutningsforslag: Indkøb af konsulentydelser til rådgivning om arkitektur, kodestruktur og teknologivalg i Sikker selvbetjening prototypen (Agnete)
+- 2.5 Beslutningsforslag: Forslag om revision af Sikker Selvbetjening projektplan (Agnete)
+- 2.6 Anna-Lis:	Produktforvaltning og produktvedligehold - next step for overdragelse / kort redegørelse
+- 2.7 Anna-Lis: BorgerPC POC. Status og next step for overdragelse /kort redegørelse
+- 2.8 Anna-Lis: Anbefaling om åben leverancemodel for fremtidige udviklingsaktiviteter: https://janhalen.github.io/enterprise-architecture-patterns/guides/%C3%A5ben-leverancemodel.html
+- 2.9 Anna-Lis: OS2's styringsmodel - tid til self-assesment
     - Intro https://www.os2.eu/governance
     - Evaluering af OS2-produkt-  udfyldes for BorgerPC V3:  https://github.com/OS2offdig/governance_report_template/blob/main/assessment_template.md
     - Governance report - bruges til at vurdere organisatorisk modenhed i produktfællesskaber: https://github.com/OS2offdig/governance_report_template/blob/main/governance_template.md
