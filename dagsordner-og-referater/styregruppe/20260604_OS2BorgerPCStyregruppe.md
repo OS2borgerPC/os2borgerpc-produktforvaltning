@@ -45,7 +45,7 @@ Evt. Observers/ Gæster:
 - 2.5 Beslutningsforslag: Forslag om revision af Sikker Selvbetjening projektplan (Agnete)
 - 2.6 Produktforvaltning og produktvedligehold - next step for overdragelse / kort redegørelse (Anna-Lis)
 - 2.7 Anbefaling om åben leverancemodel for fremtidige udviklingsaktiviteter: https://janhalen.github.io/enterprise-architecture-patterns/guides/%C3%A5ben-leverancemodel.html (Anna-Lis)
-- 2.8  OS2's styringsmodel - tid til self-assesment  jvf mail fra Rasmus den 11 maj  : https://audit.os2.eu/docs/evaluering/selvevaluering-formular.html.
+- 2.8  OS2's styringsmodel - tid til self-assesment  jvf mail fra Rasmus den 11 maj  : https://audit.os2.eu/docs/evaluering/selvevaluering-formular.html. (Anna-Lis)
 - 2.9 Status på OS2BorgerPC selvevaluering (Agnete / Thor)
 
 #### 3. Evt og kik til næste møde
