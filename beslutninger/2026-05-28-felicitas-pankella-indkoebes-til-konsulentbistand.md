@@ -40,10 +40,9 @@ Såfremt beslutningen godkendes, indgås der en klippekortaftale med Felicitas P
 
 Fokus for konsulentindsatsen vil blandt andet være:
 
-- kvalitetssikring af arkitekturvalg,
-- sparring omkring cloud native-principper,
-- vurdering af deployment- og driftsmodeller,
-- samt understøttelse af alignment med OS2basis-arbejdet.
+- kvalitetssikring af arkitekturvalg og code review af centrale komponenter
+- beskrivelse af deployment- og driftsmodeller til brug i en senere tilbudsindhentning fra driftsleverandører
+- understøttelse af alignment med OS2basis-arbejdet.
 
 Projektledelsen følger løbende forbruget af timer og sikrer, at det samlede konsulentforbrug holder sig inden for den økonomiske ramme.
 
