@@ -20,7 +20,7 @@ Ved at tilknytte ekstern konsulentbistand under selve udviklingsforløbet kan uh
 Samtidig vurderes det, at projektet hurtigere kan bringes til et niveau, hvor der kan indhentes tilbud på driftsmodning hos ekstern leverandør.
 
 Beslutningen hænger sammen med den foreslåede tilknytning af Felicitas “Fie” Pankalla som konsulent på prototypearbejdet.
-https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-05-28-felicitas-pankella-indkoebes-til-konsulentbistand.md
+[[ODR] Felicitas Pankalla indkøbes til konsulentbistand på Sikker Selvbetjening-prototypen](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-05-28-felicitas-pankella-indkoebes-til-konsulentbistand.md)
 
 ## Beslutning
 
