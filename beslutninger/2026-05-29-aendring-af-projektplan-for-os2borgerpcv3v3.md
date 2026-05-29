@@ -20,6 +20,7 @@ Ved at tilknytte ekstern konsulentbistand under selve udviklingsforløbet kan uh
 Samtidig vurderes det, at projektet hurtigere kan bringes til et niveau, hvor der kan indhentes tilbud på driftsmodning hos ekstern leverandør.
 
 Beslutningen hænger sammen med den foreslåede tilknytning af Felicitas “Fie” Pankalla som konsulent på prototypearbejdet.
+https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-05-28-felicitas-pankella-indkoebes-til-konsulentbistand.md
 
 ## Beslutning
 
@@ -48,15 +49,6 @@ Samtidig flyttes fokus fra efterfølgende kontrol til løbende kvalitetssikring 
 Projektplanen opdateres således, at aktiviteten “Tilstandsrapport” fjernes.
 
 De tilhørende budgetmidler omprioriteres til løbende konsulentbistand i prototypefasen. Konsulenttimer anvendes efter behov og prioriteres af projektledelsen i samarbejde med udviklingsteamet.
-
-Konsulentbistanden anvendes blandt andet til:
-
-- arkitekturgennemgang,
-- vurdering af deployment- og driftsmodeller,
-- kvalitetssikring af tekniske beslutninger,
-- sparring omkring cloud native-principper,
-- samt identificering af risici og uhensigtsmæssigheder tidligt i udviklingsforløbet.
-
 Projektledelsen følger løbende forbrug og effekt af konsulentindsatsen inden for den eksisterende økonomiske ramme.
 
 ## Risici
@@ -69,3 +61,4 @@ Det bemærkes dog, at projektet dermed ikke længere vil have en særskilt afslu
 
 - Beslutningen medfører opdatering af projektplanen for OS2borgerPC v3.
 - Ændringen påvirker ikke projektets samlede budgetramme.
+- Beslutningen fremlægges til ratificering på styregruppemødet den 04.06.2026.
