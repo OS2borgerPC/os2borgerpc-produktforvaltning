@@ -1,50 +1,56 @@
-# [ODR] Felicitas Pankella indkøbes til konsulentbistand på Sikker Selvbetjening prototypen
+# [ODR] Felicitas Pankalla indkøbes til konsulentbistand på Sikker Selvbetjening-prototypen
 
-## Beskrivelse af Beslutningen
+## Beskrivelse af beslutningen
 
-- **Dato**: 2026-05-28
-- **Status**: Udkast
-- **Beslutningstagere**: Styregruppen
-- **Beslutningstype**: Operationel
+- **Dato**: 2026-05-28  
+- **Status**: Udkast  
+- **Beslutningstagere**: Styregruppen  
+- **Beslutningstype**: Operationel  
 
-## Kontekst/ Årsag
-Felicitas "Fie" Pankalla https://cormora.dk/ er
+## Kontekst / Årsag
 
-Fie indgår i den arbejdsgruppe der skal levere et oplæg til besturelsen på fælleskomponenten
+Når der udvikles en prototype, træffes der tidligt en række teknologi- og arkitekturvalg, som ofte sætter varige spor i et eventuelt færdigt produkt. Det er derfor vigtigt, at disse valg gennemtænkes og vurderes grundigt — ikke alene ud fra et snævert OS2borgerPC-perspektiv, men også i sammenhæng med relaterede OS2-produkter såsom OS2skole og OS2admPC.
 
-Fie er tilknyttet OS2Skole
+OS2-bestyrelsen har besluttet at igangsætte en proces omkring fælles arkitektur for OS2borgerPC, OS2admPC og OS2skole med henblik på at identificere:
 
-Fie kvalifikationer rammer præcis ned i de 
+- hvilke komponenter og principper der bør være fælles,
+- samt hvad OS2basis bør indeholde.
 
-Hvad angår budgettet, har jeg i øjeblikket en grundtakst på 800 DKK pr.
-> arbejdstime, og i en klippekortaftale på 20 timer eller derover vil jeg nedsætte denne til 650 DKK/time
+Der er nedsat en arbejdsgruppe, som skal udarbejde et fælles oplæg til en workshop om OS2fri og OS2basis, der afholdes i efteråret.
 
-Mit eget honorar i løbet af den samlede udvikling burde derfor egentlig ikke overstige 50.000 DKK.
+I denne arbejdsgruppe deltager Felicitas “Fie” Pankalla, som driver enkeltmandsvirksomheden Cormora (<https://cormora.dk/>). Her leverer hun konsulentydelser inden for cloud native-teknologier og platform engineering, herunder automatisering, CI/CD-pipelines og Kubernetes-administration.
 
-Felicitas "Fie" Pankalla https://cormora.dk/
+Fie har tilbudt at bidrage som konsulent på arbejdet med Sikker Selvbetjening-prototypen. Ved køb af en klippekortaftale på minimum 20 timer er hendes timepris 650 DKK/time. Hun vurderer, at et samlet konsulentforløb ikke vil overstige 50.000 DKK.
+
+Agnete har afholdt et indledende møde med Fie, hvor hun prøvende evaluerede en mindre del af projektet. Dette resulterede i flere relevante anbefalinger, og samarbejdet blev oplevet som både konstruktivt og fagligt værdifuldt.
 
 ## Konsekvenser
 
-Ved at  en eneklt leverandør til rådgivning i protytypefasen
-Fies virksomhed leverer kun konsulentydelser og er ikke relevant som hverken udviklingsleverandør eller driftsleverandør senere i processen. Vi forfordeler dermed ikke en leverandør, ved at købe rådgivning hos hende i prototypefasen.
+Ved at tilknytte ekstern konsulentbistand får projektet tidligt verificeret centrale arkitektur- og teknologivalg af en kvalificeret fagperson med indsigt i relaterede OS2-produkter og moderne platform engineering-principper.
 
-Fordele 
-Vi sparer tid ved at undgå en runde af tilbudsindhentning i forhold til vurdering af protypen.
-Når prototypen vurderes tuilstrækkelig udbygget kan en tilbudsindhentning på driftsmodning, drift og vedligehold igangsættes. Input til denne proces vil være prototypen og Fies anbefalinger.
-Vi at anvende Fie trækker vi i samme retning som OS2Fri og "bund-projektet" samt OS2Skole
+Dette forventes at:
 
+- reducere risikoen for uhensigtsmæssige teknologivalg,
+- styrke sammenhængen med øvrige OS2-initiativer,
+- samt understøtte fremtidig genbrug og fælles arkitektur.
 
 ## Effektuering
 
-Der er behov for flg. i forbindelse med effektuering af beslutningen:
+Såfremt beslutningen godkendes, indgås der en klippekortaftale med Felicitas Pankalla på minimum 20 timer. Konsulentbistanden anvendes løbende i prototypearbejdet efter behov og koordineres af projektledelsen.
 
-1. etablering af frikøbsaftale med Agnetes arbejdsgiver.
-2. aftale af fokus og omdrejningspunkt for Agnetes arbejde
+Fokus for konsulentindsatsen vil blandt andet være:
 
-## Risici:
+- kvalitetssikring af arkitekturvalg,
+- sparring omkring cloud native-principper,
+- vurdering af deployment- og driftsmodeller,
+- samt understøttelse af alignment med OS2basis-arbejdet.
 
-Der er ikke identificerer nogen væsentlige risici i forbindelse med beslutningen
+Projektledelsen følger løbende forbruget af timer og sikrer, at det samlede konsulentforbrug holder sig inden for den økonomiske ramme.
 
-## Yderligere information:
+## Risici
 
-- Beslutningen fremlægges til ratificering på koordinationsgruppe mødet 02.02.2025
+Der vurderes ikke at være væsentlige risici forbundet med beslutningen.
+
+## Yderligere information
+
+- Beslutningen fremlægges til ratificering på styregruppemødet den 04.06.2026.
