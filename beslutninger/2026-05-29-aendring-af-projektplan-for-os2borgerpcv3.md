@@ -30,6 +30,8 @@ Det besluttes at ændre projektplanen for OS2borgerPC v3 således at:
 - de afsatte midler i stedet anvendes til løbende konsulentbistand i prototypefasen,
 - samt at ekstern kvalitetssikring og arkitektursparring dermed integreres som en løbende del af udviklingsarbejdet.
 
+
+
 Målet er, at prototypen ved afslutningen af prototypefasen er tilstrækkeligt kvalificeret til, at der kan indhentes tilbud på driftsmodning hos ekstern leverandør uden behov for en særskilt forudgående tilstandsrapport.
 
 ## Konsekvenser
@@ -38,9 +40,9 @@ Målet er, at prototypen ved afslutningen af prototypefasen er tilstrækkeligt k
 
 - forbedre kvaliteten af prototypearbejdet,
 - reducere risikoen for senere arkitekturændringer,
-- skabe hurtigere afklaring af tekniske udfordringer,
-- styrke sammenhængen med øvrige OS2-initiativer,
-- samt forkorte vejen fra prototype til driftsmodning.
+- dokumentere arkitekturbeslutninger i ADRs,
+- klargøre materiale til tilbudsindhentning på driftsmodning,
+- styrke sammenhængen med øvrige OS2-initiativer.
 
 Samtidig flyttes fokus fra efterfølgende kontrol til løbende kvalitetssikring under udviklingen.
 
@@ -55,7 +57,7 @@ Projektledelsen følger løbende forbrug og effekt af konsulentindsatsen inden f
 
 Der vurderes ikke at være væsentlige risici ved ændringen.
 
-Det bemærkes dog, at projektet dermed ikke længere vil have en særskilt afsluttende tilstandsrapport. Kvalitetssikringen forudsættes i stedet integreret løbende i prototypearbejdet.
+Det bemærkes dog, at projektet dermed ikke længere vil have en særskilt afsluttende tilstandsrapport. Kvalitetssikringen integreres løbende i prototypearbejdet og der produceres andre skriftlige kvalitetssikrende produkter som ADRs og beskrivelser af krav til deployment- og driftsmodeller.
 
 ## Yderligere information
 
