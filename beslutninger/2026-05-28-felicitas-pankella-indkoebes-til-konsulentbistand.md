@@ -38,10 +38,11 @@ Dette forventes at:
 
 Såfremt beslutningen godkendes, indgås der en klippekortaftale med Felicitas Pankalla på minimum 20 timer. Konsulentbistanden anvendes løbende i prototypearbejdet efter behov og koordineres af projektledelsen.
 
-Fokus for konsulentindsatsen vil blandt andet være:
+Fokus for konsulentindsatsen vil være:
 
 - kvalitetssikring af arkitekturvalg og code review af centrale komponenter
-- beskrivelse af deployment- og driftsmodeller til brug i en senere tilbudsindhentning fra driftsleverandører
+- udarbejdelse af Architectural Decision Records (ADRs)
+- beskrivelse af krav til deployment- og driftsmodeller til brug i en senere tilbudsindhentning fra driftsleverandører
 - understøttelse af alignment med OS2basis-arbejdet.
 
 Projektledelsen følger løbende forbruget af timer og sikrer, at det samlede konsulentforbrug holder sig inden for den økonomiske ramme.
