@@ -43,7 +43,7 @@ Evt. Observers/ Gæster:
 #### 2. Temaer for dagens møde
 - 2.1 Opfølgning på OS2Årsmødet (Agnete / Thor)
 - 2.3 Staus på medlemmer og deres driftsforhold (Agnete)
-- 2.4 Beslutningsforslag: [[ODR] Felicitas Pankalla indkøbes til konsulentbistand på Sikker Selvbetjening-prototypen](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-05-28-felicitas-pankella-indkoebes-til-konsulentbistand.md) (Agnete)
+- 2.4 Beslutningsforslag: [[ODR] Comora indkøbes til konsulentbistand på Sikker Selvbetjening-prototypen](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-05-28-comora-indkoebes-til-konsulentbistand.md) (Agnete)
 - 2.5 Beslutningsforslag: [[ODR] Ændring af projektplan for OS2borgerPC v3 – erstatning af tilstandsrapport med løbende konsulentbistand](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-05-29-aendring-af-projektplan-for-os2borgerpcv3.md) (Agnete)
 - 2.6 Produktforvaltning og produktvedligehold - next step for overdragelse / kort redegørelse (Anna-Lis)
 - 2.7 Anbefaling om åben leverancemodel for fremtidige udviklingsaktiviteter: https://janhalen.github.io/enterprise-architecture-patterns/guides/%C3%A5ben-leverancemodel.html (Anna-Lis)
