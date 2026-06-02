@@ -1,4 +1,4 @@
-# [ODR] Comora indkøbes til konsulentbistand på Sikker Selvbetjening-prototypen
+# [ODR] Cormora indkøbes til konsulentbistand på Sikker Selvbetjening-prototypen
 
 ## Beskrivelse af beslutningen
 
