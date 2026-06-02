@@ -1,3 +1,5 @@
+# Tabel over forvaltningsopgaver
+
 | Aktivitet/indsats område | Overdragelses behov gældende status | Kontakt i sekretariatet |
 |---|---|---|
 | **Administration og økonomiopfølgning.** | Overdrages til:<br>(dedikeret person udpeget af styregruppen:)<br><br>Ansvarlig for overdragelse:<br><br>Gældende Praksis i produktfællesskabe: | Rasmus (Formelle rammer og betingelser)<br>Agnette (Administrative processer )<br>Anna-Lis (Forvaltningsspecifikke rutiner) |
