@@ -21,6 +21,7 @@
 
 ## Produktforvaltning og leverandørsamarbejde
 | Aktivitet/indsats område | Overdragelses behov gældende status | Kontakt i sekretariatet |
+|---|---|---|
 | **Produktforvaltning og leverandørsamarbejde** | | | |
 | Håndtering og skalering af fejl og mangler i leverancen | (dedikeret person udpeget af styregruppen) | Anna-Lis (forvaltningspraksis og praktisk håndtering) | Jan (Open Source metodik og best practice) |
 | Koordinere test aktiviteter og verification af acceptere kriterier er mødt. | (dedikeret person udpeget af styregruppen) | Anna-Lis (forvaltningspraksis og praktisk håndtering) | Jan (Open Source metodik og best practice) |
@@ -34,6 +35,7 @@
 
 ## Produktudvikling og vedligehold af Kildekode
 | Aktivitet/indsats område | Overdragelses behov gældende status | Kontakt i sekretariatet |
+|---|---|---|
 | **Produktudvikling og vedligehold af Kildekode** | | | |
 | Koordinere releaseaktiviteter og bugfix (Incl etablering af 12 måneders roadmap) | (dedikeret person udpeget af styregruppen) | Anna-Lis (forvaltningspraksis og praktisk håndtering) | Jan (Open Source metodik og best practice) |
 | Prioritering og kvalitetssikring af Backlog for "Skal opgaver" | (dedikeret person udpeget af styregruppen) | Anna-Lis (forvaltningspraksis og praktisk håndtering) | Jan (Open Source metodik og best practice) |
