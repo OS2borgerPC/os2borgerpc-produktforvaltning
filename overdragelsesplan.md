@@ -1,4 +1,4 @@
-# Tabel over forvaltningsopgaver
+# Forvaltningsopgaver
 
 ## Administration, kommunikation og økonomi
 
