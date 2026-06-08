@@ -38,7 +38,7 @@ Evt. Observers/ Gæster:
 - 1.2 Godkendelse af referat og dagsorden
 - 1.3 Status beslutningsforslag udsendt til skriftlig godkendelse pr mail den 19. maj 2026. Alle medlemmer har skriftligt tilkendegivet at de godkender beslutningsforslaget [[SDR] Godkendelse af projektplan for OS2BorgerPC v3 (arbejdstitel Sikker Selvbetjening)](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-05-07-projektplan-for-sikker-selvbetjening.md)
 - 1.4 Status på referat fra styregruppemøde den 5. marts 2026 udsendt til skriftlig godkendelse pr mail den 19. maj 2026. Alle medlemmer har skriftlig godkendt referatet.
-}
+
 
 #### 2. Temaer for dagens møde
 - 2.1 Opfølgning på OS2Årsmødet (Agnete / Thor)
