@@ -81,8 +81,8 @@ Agnete præsenterede Sikker Selvbetjening på årsmødet. Thor melder om positiv
 
 OS2Fri blev præsenteret på årsmødet: arbejdsgruppe nedsat med formål at lave forslag til OS2Basis - fælles teknologifundament. 
 
-Forslaget skal behandles påOS2Fri  workshop den 8. september 2026. 
-Agnete forberede oplæg til workshop hvor bestyrelsen forholder sig til OS2FRI
+Forslaget skal behandles på OS2Fri  workshop den 8. september 2026. 
+Agnete deltager i arbejdsgruppen, der forbereder oplæg til workshoppen, hvor bestyrelsen forholder sig til OS2FRI
 
 Per foreslår at tilpasse budgettet og afsætte post til at arbejde med Os2Fris anbefalinger. 
 
