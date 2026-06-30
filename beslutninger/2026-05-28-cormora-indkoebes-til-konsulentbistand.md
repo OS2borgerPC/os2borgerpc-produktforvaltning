@@ -3,7 +3,7 @@
 ## Beskrivelse af beslutningen
 
 - **Dato**: 2026-05-28  
-- **Status**: Udkast  
+- **Status**: Godkendt på styregruppemødet den 4. juni 2026.
 - **Beslutningstagere**: Styregruppen  
 - **Beslutningstype**: Operationel  
 
