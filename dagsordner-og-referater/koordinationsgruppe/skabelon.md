@@ -18,7 +18,6 @@
 - [ ] Robert Voje
 - [ ] Søren Greising Tølbøll
 - [ ] Agnete Moos (Produkt Owner)
-- [ ] Anna-Lis Berg (OS2 sekretariat)
 - [ ] Sofie Søndergaard (produktkoordinator)
 
 
@@ -36,24 +35,28 @@ Evt. Observers/ Gæster:
 - 1.1 Verificering af tilstedeværelse, mødeleder og referent
 - 1.2 Godkendelse af referat og dagsorden
 
-#### 2. General House-keeping
-- 2.1 Status på igangværende aktiviteter
-- 2.2 Henvendelser ude fra og spørgsmål fra baglandet
-- 2.3 Input til styregruppemødet den følgende Torsdag.
 
-#### 3. Temaer for dagens møde
+#### 2. Temaer for dagens møde
+- 2.1 
+- 2.2 
+- 2.3 
+- 2.4 
 
-Evt og kik til næste møde
+  
 
-
-#### Links til evt. mødepræsentation og baggrundsmateriale
-
-#### Link til beslutningslogs
-
-
+#### 3. Eventuelt
+- 3.1 General Housekeeping
+- 3.2 Input til styregruppen
+- 3.3 Evt og kik til næste møde
 
 
-## Møde referat
+  ---
+
+
+
+
+## Mødereferat
+
 
 
 
