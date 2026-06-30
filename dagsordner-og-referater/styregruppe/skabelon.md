@@ -13,18 +13,18 @@
 
 **Sted**: Virtuel
 
+
 #### Deltagere:
 - [ ] Thor Dekov Buur
 - [ ] Bo Mathiasen Bladmose
 - [ ] Per Kjær
 - [ ] Toke Leth Laursen
 - [ ] Agnete Moos (Produkt Owner)
-- [ ] Anna-Lis Berg (OS2 sekretariat)
-- [ ] Sofie Søndergaard (produktkoordinator)
+- [ ] Sofie Søndergaard (Produktkoordinator)
 
 
 #### Afbud:
-- [ ] xxx 
+- [ ] Toke Leth Laursen
 
 #### Faciliteret af:
 - [ ] Agnete Moos (Mødeleder)  
@@ -37,19 +37,33 @@ Evt. Observers/ Gæster:
 - 1.1 Verificering af tilstedeværelse, mødeleder og referent
 - 1.2 Godkendelse af referat og dagsorden
 
-#### 2. General House-keeping
-- 2.1 Status på igangværende aktiviteter
-- 2.2 Henvendelser ude fra og spørgsmål fra baglandet
-- 2.3 Input til styregruppemødet den følgende Torsdag.
 
-#### 3. Temaer for dagens møde
 
-Evt og kik til næste møde
+#### 2. Temaer for dagens møde
+- 2.1 
+- 2.2 
+- 2.3 
+- 2.4 
+
+#### 3. Evt og kik til næste møde
+- 3.1 Næste Styregruppemøde: 
+
 
 
 #### Links til evt. mødepræsentation og baggrundsmateriale
 
 #### Link til beslutningslogs
+
+
+
+
+
+
+
+
+
+ 
+  ---
 
 
 
