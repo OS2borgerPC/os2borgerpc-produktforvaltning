@@ -3,7 +3,7 @@
 ## Beskrivelse af beslutningen
 
 - **Dato**: 2026-06-25  
-- **Status**: Udkast  
+- **Status**: Besluttet. Modtaget 1.7 pr mail   
 - **Beslutningstagere**: Styregruppen  
 - **Beslutningstype**: Operationel  
 
