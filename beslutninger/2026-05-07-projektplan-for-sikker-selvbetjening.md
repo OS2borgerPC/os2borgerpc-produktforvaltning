@@ -1,7 +1,7 @@
 # [SDR] Godkendelse af projektplan for OS2BorgerPC v3 (arbejdstitel Sikker Selvbetjening)
 
 - **Dato**: 2026-05-07
-- **Status**: Udkast
+- **Status**: Besluttet. (Modtaget pr mail 20-21. 5. 2026)
 - **Beslutningstagere**: Styregruppen
 - **Beslutningstype**: Strategisk
 
