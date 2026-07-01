@@ -3,7 +3,7 @@
 ## Beskrivelse af beslutningen
 
 - **Dato**: 2026-05-29  
-- **Status**: Besluttet (pr mail, modtaget 20.5-21.5 2026)  
+- **Status**: Besluttet på styregruppemødet 4.6.2026  
 - **Beslutningstagere**: Styregruppen  
 - **Beslutningstype**: Operationel  
 
