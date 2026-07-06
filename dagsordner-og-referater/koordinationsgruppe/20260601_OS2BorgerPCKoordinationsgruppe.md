@@ -2,7 +2,10 @@
 ## Dagsorden og referat
 # OS2borgerPC koordinationsgruppemøde 01.06.2026
 
-**Status**
+**Status** MØDET BLEV AFLYST 
+
+(aflyst efter fem minutter pga manglende deltagere)
+
 - [ ] Referat klar til godkendelse
 - [ ] Referat godkendt
 
@@ -16,11 +19,11 @@
 
 #### Deltagere:
 - [ ] Dennis Borup Jacobsen
-- [ ] Robert Voje
+- [x] Robert Voje
 - [ ] Frederik Deth Hesselholt
-- [ ] Agnete Moos (Produkt Owner)
+- [x] Agnete Moos (Produkt Owner)
 - [ ] Anna-Lis Berg (OS2 sekretariat)
-- [ ] Sofie Søndergaard (produktkoordinator)
+- [x] Sofie Søndergaard (produktkoordinator)
 
 
 #### Afbud:
