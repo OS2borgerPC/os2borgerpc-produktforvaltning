@@ -40,9 +40,11 @@ Evt. Observers/ Gæster:
 #### 2. Temaer for dagens møde
 - 2.1 Status på opdatering af Django
 Opfølgning på https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-06-25-opdatering-af-django-i-ostborgerpc-admin-site.md
-Er KIT kunder blevet opdateret?
+KIT kunder er blevet opdateret.
 
-- 2.2 Sikker Selvbetjening -
+- 2.2 Henvendelse om sikkerhedsbrist i OS2BorgerPC Admin
+
+- 2.3 Sikker Selvbetjening -
 Det går fint fremad med prototypearbejdet. Arbejder frem mod en prototype som pilotkommuner kan få lov til at afprøve i praksis.
 
 Next steps:
