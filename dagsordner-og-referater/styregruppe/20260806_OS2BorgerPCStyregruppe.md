@@ -40,13 +40,17 @@ Evt. Observers/ Gæster:
 
 
 #### 2. Temaer for dagens møde
-- 2.1 Opfølgning på selvevaluering (Agnete / Thor)
+
+- 2.1 Sikkerhedshenvendelse (Agnete) (Udsendt pr mail til styregruppen 4. august)
 - 2.2 Staus på medlemmer og deres driftsforhold (Agnete)
 - 2.3 Opdateret Budget 2026 (Agnete)
-- 2.4 Udkast til OS2BorgerPC nyhedsbrev til godkendelse for udsendelse
-
+- 2.4 Opfølgning på selvevaluering (Agnete / Thor)
+- 2.5 OS2BorgerPC nyhedsbrev til medlemmer: forslag til emner: produktforvaltning hos Sønderborg, Sikker selvbetjening med teasers samt medlemsinvitation til prototypetest (Agnete)
+  
+  
 #### 3. Evt og kik til næste møde
-- 3.1 Næste Styregruppemøde: Torsdag den 10. september 2026
+- 3.1 Varighed af styregruppemøder: forslag om reduktion fra 90 minutter til 60 minutter 
+- 3.2 Næste Styregruppemøde: Torsdag den 10. september 2026
 
 
 
