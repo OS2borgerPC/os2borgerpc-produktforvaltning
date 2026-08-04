@@ -1,23 +1,27 @@
----
-title: Indhentning af tilbud på sikkerhedspatch til OS2BorgerPC
-date: 2026-08-04
-status: Udkast
----
-
 # [ODR] Indhentning af tilbud på sikkerhedspatch til OS2BorgerPC
+
+## Beskrivelse af beslutningen
+
+- **Dato**: 2026-08-04  
+- **Status**: Udkast
+- **Beslutningstagere**: Styregruppen  
+- **Beslutningstype**: Operationel  
 
 ## Baggrund
 
 En medlemskommune har indrapporteret et sikkerhedsproblem i kommunikationen mellem OS2BorgerPC Admin-portalen og BorgerPC-klienterne.
-Styregruppens medlemmer har den 4. august 2026 modtaget en orientering med de tekniske detaljer om problemstillingen.
-Sagen blev behandlet på koordinationsgruppens møde den 3. august 2026. Koordinationsgruppen vurderer, at der er tale om en reel sikkerhedssårbarhed, som bør håndteres hurtigst muligt.
+Styregruppens medlemmer har den 4. august 2026 pr. mail modtaget en orientering med de tekniske detaljer om problemstillingen.
+
+Sagen er behandlet på koordinationsgruppens møde den 3. august 2026. Koordinationsgruppen vurderer, at der er tale om en reel sikkerhedssårbarhed, som bør håndteres.
 En oplagt løsning vurderes at være at indføre SSH-verifikation i protokollen mellem Admin-serveren og BorgerPC-klienterne. Den konkrete tekniske implementering vil skulle afklares som en del af opgaven.
 
 ## Vurdering
 
 Produktforvaltningen vurderer, at der bør udvikles et sikkerhedspatch, som adresserer den identificerede sårbarhed.
 Det anbefales, at der indhentes et tilbud fra KvalitetsIT på analyse, udvikling, test og implementering af løsningen.
+
 Produktforvaltningen vil samtidig gå i dialog med den kommune, der har indrapporteret sikkerhedsproblemet, med henblik på at koordinere den videre håndtering af sagen og sikre en hensigtsmæssig kommunikation om den identificerede sårbarhed.
+
 Der er i budgettet for 2026 afsat 100.000 kr. til vedligeholdelse af OS2BorgerPC. Heraf er der fortsat ca. 80.000 kr. til rådighed.
 Produktforvaltningen vurderer derfor, at der er økonomisk grundlag for at indhente et tilbud og efterfølgende tage stilling til, om opgaven kan finansieres inden for det resterende vedligeholdelsesbudget.
 
