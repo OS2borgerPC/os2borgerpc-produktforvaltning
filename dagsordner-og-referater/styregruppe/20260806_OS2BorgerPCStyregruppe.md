@@ -55,9 +55,9 @@ Evt. Observers/ Gæster:
 
 
 
-#### Links til evt. mødepræsentation og baggrundsmateriale
 
-#### Link til beslutningslogs
+
+
 
 
 
