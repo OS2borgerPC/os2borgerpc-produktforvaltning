@@ -42,8 +42,12 @@ Evt. Observers/ Gæster:
 
 #### 2. Temaer for dagens møde
 
-- 2.1 Sikkerhedshenvendelse (Agnete) (Udsendt pr mail til styregruppen 4. august)
-- 2.2 Staus på medlemmer og deres driftsforhold (Agnete)
+- 2.1 Sikkerhedshenvendelse fra medlemskommune (Agnete)
+  - Mail med tekniske detaljer er udsendt pr mail til styregruppen 4. august
+  - Styregruppen bedes tage stilling til følgende beslutningsforslag: https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-08-04-sikkerhedspatch-til-os2borgerpc.md
+  - Mødepræsentation der gennemgår problemstillingen ligger på på boks.os2.eu: 
+- 2.2 Status på medlemmer og deres driftsforhold (Agnete)
+  - Mødepræsentation der gennemgår problemstillingen ligger på på boks.os2.eu: 
 - 2.3 Opdateret Budget 2026 (Agnete)
 - 2.4 Opfølgning på selvevaluering (Agnete / Thor)
 - 2.5 OS2BorgerPC nyhedsbrev til medlemmer: forslag til emner: produktforvaltning hos Sønderborg, Sikker selvbetjening med teasers samt medlemsinvitation til prototypetest (Agnete)
