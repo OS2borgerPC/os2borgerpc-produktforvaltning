@@ -4,7 +4,7 @@ date: 2026-08-04
 status: Udkast
 ---
 
-# Beslutningsforslag: Indhentning af tilbud på sikkerhedspatch til OS2BorgerPC
+# [ODR] Indhentning af tilbud på sikkerhedspatch til OS2BorgerPC
 
 ## Baggrund
 
