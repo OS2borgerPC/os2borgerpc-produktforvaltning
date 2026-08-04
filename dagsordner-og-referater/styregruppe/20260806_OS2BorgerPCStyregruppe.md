@@ -23,7 +23,8 @@
 
 
 #### Afbud:
-- [ ] Toke Leth Laursen
+- [ ] Bo Mathiasen Bladmose
+
 
 #### Faciliteret af:
 - [ ] Agnete Moos (Mødeleder)  
