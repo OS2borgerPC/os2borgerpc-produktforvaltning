@@ -44,7 +44,6 @@ Evt. Observers/ Gæster:
 
 - 2.1 Sikkerhedshenvendelse fra medlemskommune (Agnete)
   - Mail med tekniske detaljer er udsendt pr mail til styregruppen 4. august
-  - Styregruppen bedes tage stilling til følgende beslutningsforslag: https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-08-04-sikkerhedspatch-til-os2borgerpc.md
   - Mødepræsentation der gennemgår problemstillingen ligger på på [boks.os2.eu](https://boks.os2.eu/apps/files/files/374389?dir=/borgerpc%20-%20beskyttet/OS2borgerPC%20KOORDINATIONSGRUPPENS%20MAPPE%20%28%C3%85BEN%29/M%C3%B8depr%C3%A6sentationer) 
 - 2.2 Status på medlemmer og deres driftsforhold (Agnete)
   - Mødepræsentation der gennemgår problemstillingen ligger på på [boks.os2.eu](https://boks.os2.eu/apps/files/files/374389?dir=/borgerpc%20-%20beskyttet/OS2borgerPC%20KOORDINATIONSGRUPPENS%20MAPPE%20%28%C3%85BEN%29/M%C3%B8depr%C3%A6sentationer)
