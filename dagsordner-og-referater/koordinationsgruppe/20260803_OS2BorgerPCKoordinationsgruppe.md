@@ -71,7 +71,7 @@ Mødereferat fra 7. juni godkendt.
 
 > - 2.2 Henvendelse om sikkerhedsbrist i OS2BorgerPC Admin
 >
-Beslutning: Vi skal forholde os til det. Koordinationsgruppen vurderer situationen som reel og alvorlig. Henvendelsen skal forelægges styregruppen. Forslag om udarbejdelse af sikkerhedspatch.
+Beslutning: Vi skal forholde os til det. Koordinationsgruppen vurderer situationen som reel, men dig mitigeret af at borgerpc-brugere ikke har adgang til MAC-adressen, hvis man kører med de anbefalede sikkerhedsindstillinger. Henvendelsen skal forelægges styregruppen. 
 
 > - 2.3 Sikker Selvbetjening -
 > Det går fint fremad med prototypearbejdet. Arbejder frem mod en prototype som pilotkommuner kan få lov til at afprøve i praksis.
