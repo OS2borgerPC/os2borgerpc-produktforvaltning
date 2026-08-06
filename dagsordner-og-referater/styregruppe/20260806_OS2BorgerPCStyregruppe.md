@@ -49,7 +49,7 @@ Evt. Observers/ Gæster:
   - Mødepræsentation der gennemgår problemstillingen ligger på på [boks.os2.eu](https://boks.os2.eu/apps/files/files/374389?dir=/borgerpc%20-%20beskyttet/OS2borgerPC%20KOORDINATIONSGRUPPENS%20MAPPE%20%28%C3%85BEN%29/M%C3%B8depr%C3%A6sentationer)
 - 2.3 Opdateret Budget 2026 (Agnete)
 - 2.4 Opfølgning på selvevaluering (Agnete / Thor)
-- 2.5 OS2BorgerPC nyhedsbrev til medlemmer: forslag til emner: produktforvaltning hos Sønderborg, Sikker selvbetjening med teasers samt medlemsinvitation til prototypetest (Agnete)
+- 2.5 OS2BorgerPC nyhedsbrev til medlemmer: forslag til emner: produktforvaltning hos Sønderborg, OS2Fri proces
   
   
 #### 3. Evt og kik til næste møde
