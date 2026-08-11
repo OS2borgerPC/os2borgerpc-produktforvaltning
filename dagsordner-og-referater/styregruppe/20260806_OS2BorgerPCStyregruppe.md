@@ -2,7 +2,7 @@
 # OS2borgerPC styregruppemøde 06.08.2026
 
 **Status**
-- [ ] Referat klar til godkendelse
+- [x] Referat klar til godkendelse
 - [ ] Referat godkendt
 
 ## Mødefakta
@@ -46,7 +46,7 @@ Evt. Observers/ Gæster:
   - Mail med tekniske detaljer er udsendt pr mail til styregruppen 4. august
   - Mødepræsentation der gennemgår problemstillingen ligger på på [boks.os2.eu](https://boks.os2.eu/apps/files/files/374389?dir=/borgerpc%20-%20beskyttet/OS2borgerPC%20KOORDINATIONSGRUPPENS%20MAPPE%20%28%C3%85BEN%29/M%C3%B8depr%C3%A6sentationer) 
 - 2.2 Status på medlemmer og deres driftsforhold (Agnete)
-  - Mødepræsentation der gennemgår problemstillingen ligger på på [boks.os2.eu](https://boks.os2.eu/apps/files/files/374389?dir=/borgerpc%20-%20beskyttet/OS2borgerPC%20KOORDINATIONSGRUPPENS%20MAPPE%20%28%C3%85BEN%29/M%C3%B8depr%C3%A6sentationer)
+  - Mødepræsentation der gennemgår status ligger på på [boks.os2.eu](https://boks.os2.eu/apps/files/files/374389?dir=/borgerpc%20-%20beskyttet/OS2borgerPC%20KOORDINATIONSGRUPPENS%20MAPPE%20%28%C3%85BEN%29/M%C3%B8depr%C3%A6sentationer)
 - 2.3 Opdateret Budget 2026 (Agnete)
 - 2.4 Opfølgning på selvevaluering (Agnete / Thor)
 - 2.5 OS2BorgerPC nyhedsbrev til medlemmer: forslag til emner: produktforvaltning hos Sønderborg, OS2Fri proces
@@ -74,13 +74,13 @@ Godkendt af alle styregruppemedlemmer inden mødet via mailsvar.
 > #### 2. Temaer for dagens møde
 
 > - 2.1 Sikkerhedshenvendelse fra medlemskommune (Agnete)
-> - Mail med tekniske detaljer er udsendt pr mail til styregruppen 4. august
-> - Mødepræsentation der gennemgår problemstillingen ligger på på [boks.os2.eu](https://boks.os2.eu/apps/files/files/374389?dir=/borgerpc%20-%20beskyttet/OS2borgerPC%20KOORDINATIONSGRUPPENS%20MAPPE%20%28%C3%85BEN%29/M%C3%B8depr%C3%A6sentationer)
+>   - Mail med tekniske detaljer er udsendt pr mail til styregruppen 4. august
+>   - Mødepræsentation der gennemgår problemstillingen ligger på på [boks.os2.eu](https://boks.os2.eu/apps/files/files/374389?dir=/borgerpc%20-%20beskyttet/OS2borgerPC%20KOORDINATIONSGRUPPENS%20MAPPE%20%28%C3%85BEN%29/M%C3%B8depr%C3%A6sentationer)
 
 Det blev besluttet at Agnete kvitterer for henvendelsen til Gladsaxe. Styregruppen følger situationen nøje og afventer svar fra Magenta. 
 
 > - 2.2 Status på medlemmer og deres driftsforhold (Agnete)
-> - Mødepræsentation der gennemgår problemstillingen ligger på på [boks.os2.eu](https://boks.os2.eu/apps/files/files/374389?dir=/borgerpc%20-%20beskyttet/OS2borgerPC%20KOORDINATIONSGRUPPENS%20MAPPE%20%28%C3%85BEN%29/M%C3%B8depr%C3%A6sentationer)
+>   - Mødepræsentation der gennemgår status ligger på på [boks.os2.eu](https://boks.os2.eu/apps/files/files/374389?dir=/borgerpc%20-%20beskyttet/OS2borgerPC%20KOORDINATIONSGRUPPENS%20MAPPE%20%28%C3%85BEN%29/M%C3%B8depr%C3%A6sentationer)
 
 Vi har 19 medlemskommuner, der alle har genbekræftet deres tilslutning ved at betale vederlag for 2026.
 Sorø og Herning anvender systemet, men er endnu tilsluttet OS2BorgerPC. Agnete kontakter dem om tilslutning pr. mail.
@@ -102,8 +102,9 @@ Agnete og Thor har udfyldt selvevalueringsskema for OS2BorgerPC. Besvarelsen ble
 Emner for et nyhedsbrev til tilsluttede kommuner blev drøftet.
 Forslag: 
 -	Præsentation af styregruppe og produktforvaltning
--	Information om OS2Fri. Os2BorgerPC deltager i arkitekturarbejdet omkring OS2Fri
-Udsendelse af nyhedsbrev udskydes til efter OS2Fri workshop den 8. september hvor vi bliver klogere på retning og indhold af OS2Fri. 
+-	Information om OS2Fri. Os2BorgerPC deltager i arkitekturarbejdet omkring OS2Fri.
+  
+- Udsendelse af nyhedsbrev udskydes til efter OS2Fri workshop den 8. september hvor vi bliver klogere på retning og indhold af OS2Fri. 
 
 Anliggender, der kun vedrører kommuner på den åbne version, dvs. KvalitetsIT kunder eller kommuner der hoster selv, udsendes særskilt til denne gruppe, for ikke at skabe forvirring og utryghed. 
 
@@ -119,10 +120,10 @@ Alle tilstedeværende styregruppemedlemmer støtter forslaget, der derfor blev v
 
 Forslag om at rykke mødet til den 17. september klokken 11-12
 
-Det blev besluttet at vi indkalder med ny dato. 
+Det blev besluttet at Agnete/Sofie indkalder med ny dato. 
 
-Aftale: 
-1. Udkast til nyhedsbrev med til næste møde Status på produkter
+Aftale om indhold på næste møde: 
+1. Udkast til nyhedsbrev præsenteres 
 2. Status på produkter 
 
 
