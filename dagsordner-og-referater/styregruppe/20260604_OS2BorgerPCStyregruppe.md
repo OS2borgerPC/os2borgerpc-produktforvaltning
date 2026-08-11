@@ -3,7 +3,7 @@
 
 **Status**
 - [x] Referat klar til godkendelse
-- [ ] Referat godkendt
+- [x] Referat godkendt
 
 ## Mødefakta
   
