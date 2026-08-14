@@ -1,66 +1,32 @@
-# [ODR] Ændring af projektplan for OS2borgerPC v3 – erstatning af tilstandsrapport med løbende konsulentbistand
+# [ODR] Sikkerhedspatch til OS2BorgerPC Admin og OS2BorgerPC-klienten
 
 ## Beskrivelse af beslutningen
 
-- **Dato**: 2026-05-29  
-- **Status**: Besluttet på styregruppemødet 4.6.2026  
-- **Beslutningstagere**: Styregruppen  
-- **Beslutningstype**: Operationel  
+- **Dato:** 2026-08-14
+- **Status:** Forslag
+- **Beslutningstagere:** Styregruppen
+- **Beslutningstype:** Operationel
 
-## Kontekst / Årsag
+## Indhentning af tilbud på sikkerhedspatch til OS2BorgerPC
 
-I den nuværende projektplan for OS2borgerPC v3 er der afsat midler til udarbejdelse af en tilstandsrapport efter prototypefasen.
+### Baggrund
 
-Formålet med tilstandsrapporten har været at få vurderet projektets arkitektur, tekniske kvalitet og modenhed inden overgang til driftsmodning hos ekstern leverandør.
+En medlemskommune har indrapporteret et sikkerhedsproblem i kommunikationen mellem OS2BorgerPC Admin-portalen og OS2BorgerPC-klienterne.
+Styregruppens medlemmer modtog den 4. august 2026 en orientering med de tekniske detaljer om problemstillingen.
+Sagen blev behandlet på koordinationsgruppens møde den 3. august 2026. Koordinationsgruppen vurderer, at der er tale om en reel sikkerhedssårbarhed, som bør håndteres hurtigst muligt.
+En oplagt løsning vurderes at være at justere protokollen mellem Admin-serveren og OS2BorgerPC-klienterne. Den konkrete tekniske implementering skal afklares som en del af opgaven.
 
-Erfaringerne fra det indledende prototypearbejde viser imidlertid, at det vil skabe større værdi at anvende disse midler løbende i prototypefasen fremfor som en afsluttende evaluering.
+### Vurdering
 
-Ved at tilknytte ekstern konsulentbistand under selve udviklingsforløbet kan uhensigtsmæssige arkitektur- og teknologivalg identificeres og korrigeres tidligt. Dette reducerer risikoen for teknisk gæld og minimerer behovet for større ændringer senere i projektet.
+Produktforvaltningen vurderer, at der bør udvikles en sikkerhedspatch, som adresserer den identificerede sårbarhed. Produktforvaltningen anbefaler derfor at indgå en aftale med KvalitetsIT på time and material-basis om analyse, udvikling, test og implementering af løsningen med en maksimal ramme på 30.000 kr.
 
-Samtidig vurderes det, at projektet hurtigere kan bringes til et niveau, hvor der kan indhentes tilbud på driftsmodning hos ekstern leverandør.
+Produktforvaltningen vil samtidig gå i dialog med den kommune, der har indrapporteret sikkerhedsproblemet, med henblik på at koordinere den videre håndtering af sagen og sikre en hensigtsmæssig kommunikation om den identificerede sårbarhed.
 
-Beslutningen hænger sammen med den foreslåede tilknytning af Felicitas “Fie” Pankalla som konsulent på prototypearbejdet.
-[[ODR] Felicitas Pankalla indkøbes til konsulentbistand på Sikker Selvbetjening-prototypen](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-05-28-felicitas-pankella-indkoebes-til-konsulentbistand.md)
+Der er i budgettet for 2026 afsat 100.000 kr. til vedligeholdelse af OS2BorgerPC. Heraf er der fortsat ca. 90.000 kr. til rådighed.
 
-## Beslutning
+### Indstilling
 
-Det besluttes at ændre projektplanen for OS2borgerPC v3 således at:
+Produktforvaltningen indstiller, at styregruppen godkender:
 
-- aktiviteten “Tilstandsrapport” udgår af projektplanen,
-- de afsatte midler i stedet anvendes til løbende konsulentbistand i prototypefasen,
-- samt at ekstern kvalitetssikring og arkitektursparring dermed integreres som en løbende del af udviklingsarbejdet.
-
-
-
-Målet er, at prototypen ved afslutningen af prototypefasen er tilstrækkeligt kvalificeret til, at der kan indhentes tilbud på driftsmodning hos ekstern leverandør uden behov for en særskilt forudgående tilstandsrapport.
-
-## Konsekvenser
-
-Ændringen forventes at:
-
-- forbedre kvaliteten af prototypearbejdet,
-- reducere risikoen for senere arkitekturændringer,
-- dokumentere arkitekturbeslutninger i ADRs,
-- klargøre materiale til tilbudsindhentning på driftsmodning,
-- styrke sammenhængen med øvrige OS2-initiativer.
-
-Samtidig flyttes fokus fra efterfølgende kontrol til løbende kvalitetssikring under udviklingen.
-
-## Effektuering
-
-Projektplanen opdateres således, at aktiviteten “Tilstandsrapport” fjernes.
-
-De tilhørende budgetmidler omprioriteres til løbende konsulentbistand i prototypefasen. Konsulenttimer anvendes efter behov og prioriteres af projektledelsen i samarbejde med udviklingsteamet.
-Projektledelsen følger løbende forbrug og effekt af konsulentindsatsen inden for den eksisterende økonomiske ramme.
-
-## Risici
-
-Der vurderes ikke at være væsentlige risici ved ændringen.
-
-Det bemærkes dog, at projektet dermed ikke længere vil have en særskilt afsluttende tilstandsrapport. Kvalitetssikringen integreres løbende i prototypearbejdet og der produceres andre skriftlige kvalitetssikrende produkter som ADRs og beskrivelser af krav til deployment- og driftsmodeller.
-
-## Yderligere information
-
-- Beslutningen medfører opdatering af projektplanen for OS2borgerPC v3.
-- Ændringen påvirker ikke projektets samlede budgetramme.
-- Beslutningen fremlægges til ratificering på styregruppemødet den 04.06.2026.
+- at produktforvaltningen på time and material-basis, med en maksimal ramme på 30.000 kr., bestiller KvalitetsIT til at udvikle og implementere en sikkerhedspatch, der adresserer den indrapporterede sårbarhed,
+- at produktforvaltningen går i dialog med den kommune, der har indrapporteret problemet, om den videre håndtering af sagen.
