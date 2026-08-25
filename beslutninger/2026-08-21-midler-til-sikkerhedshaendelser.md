@@ -1,4 +1,4 @@
-# [ODR] Beslutning om midler til håndtering af sikkerhedshændelser i OS2BorgerPC
+# [ODR] Beslutning om midler til håndtering af akutte sikkerhedshændelser i OS2BorgerPC
 
 ## Beskrivelse af beslutningen
 
@@ -8,9 +8,9 @@
 - **Beslutningstype**: Operationel  
 
 ## Baggrund
-En medlemskommune har indberettet en alvorlig sikkerhedssårbarhed i kommunikationen mellem OS2BorgerPC Admin-portalen og BorgerPC-klienterne. Sagen blev drøftet på koordinationsgruppens møde den 3. august 2026, hvor det blev vurderet, at problemet udgør en reel trussel mod kundernes sikkerhed og skal håndteres med højeste prioritet.
+En medlemskommune har indberettet en alvorlig sikkerhedssårbarhed i kommunikationen mellem OS2BorgerPC Admin-portalen og BorgerPC-klienterne. Sagen blev drøftet på koordinationsgruppens møde den 3. august 2026, hvor det blev vurderet, at problemet udgør en reel trussel mod kundernes sikkerhed og skal håndteres med højeste prioritet. På styregruppens møde den 4. august 2026 blev der modtaget en orientering med de tekniske detaljer vedrørende sårbarheden. 
 
-På styregruppens møde den 4. august 2026 blev der modtaget en orientering med de tekniske detaljer vedrørende sårbarheden. Den præcise tekniske udformning af løsningen skal afklares i løbet af opgaven.
+Efter dialog med KvalitetsIT er et hotfix implementeret, der lukker det akutte sikkerhedshul. En ny release er blevet tagget (7.0.3) og alle kunders sites er blevet opdateret. Det har kostet 6000 kr. som jeg har set mig nødsaget til at disponere uden forudgående godkendelse fra styregruppen.
 
 ## Problemstilling
 Nuværende procedurer kræver, at alle udgifter til løsning af sikkerhedsproblemer gennemgås og godkendes individuelt af styregruppen. Denne proces kan være for langsom til at imødekomme kravene om hurtig reaktion på aktive sikkerhedstrusler, hvilket potentielt udsætter brugerne for risiko.
