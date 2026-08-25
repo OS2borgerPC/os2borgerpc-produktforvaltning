@@ -1,4 +1,4 @@
-# [ODR] Bevilling af transport til Agnete i forbindelse med OS2fri-møder i Aarhus
+# [ODR] Bevilling af transportrefusion til produktforvaltningen i forbindelse med OS2-møder i Aarhus
 
 ## Beskrivelse af beslutningen
 
@@ -9,7 +9,9 @@
 
 ## Kontekst / Årsag
 
-Agnete deltager i OS2fri-relaterede møder og workshops i Aarhus som led i arbejdet med fælles arkitektur og koordinering på tværs af OS2-initiativernes spor.
+I OS2 regi afholdes der møder for produktforvaltere som Agnete Moos og Sofie Søndergaard ønsker at delte i. Der kan også være møder med sekretariatet, der pga. af indhold eller arbejdsform ikke kan afvikles på Teams.
+
+Agnete er desuden involveret i OS2fri-relaterede møder og workshops som led i arbejdet med fælles arkitektur og koordinering på tværs af OS2-initiativernes spor.
 
 For at sikre kontinuerlig og kvalificeret deltagelse foreslås det, at transportudgifter til disse aktiviteter dækkes af projektet efter gældende retningslinjer.
 
