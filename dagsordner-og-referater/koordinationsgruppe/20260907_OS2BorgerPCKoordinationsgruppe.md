@@ -9,7 +9,7 @@
   
 **Mødenavn**: OS2borgerpc koordinationsgruppemøde  (Afholdes 1. mandag i måneden)
 
-**Tid**: 07.09.2026  kl. Start tid - Slut tid  
+**Tid**: 07.09.2026  kl. 13 - 14  
 
 **Sted**: Virtuel
 
