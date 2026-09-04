@@ -42,10 +42,10 @@
 
 
 #### 2. Temaer for dagens møde
-- 2.1 
-- 2.2 
-- 2.3 
-- 2.4 
+- 2.1 Status for sikkerhedssager. Stillingtagen til Beslutning om midler til sikkerhedshændelser.
+- 2.2 Konklusioner fra OS2Fri workshop d. 8. september og implikationer for OS2BorgerPC
+- 2.3 Risiko mitigering: Hvordan forholder vi os til end-of-life på Ubuntu 22.04 til april 2027.
+- 2.4 Stillingtagen til Beslutning om dækning af transportudgifter til møder i OS2 regi
 
 #### 3. Evt og kik til næste møde
 - 3.1 Næste Styregruppemøde: 
