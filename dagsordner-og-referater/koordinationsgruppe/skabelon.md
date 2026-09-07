@@ -16,7 +16,7 @@
 #### Deltagere:
 - [ ] Dennis Borup Jacobsen
 - [ ] Robert Voje
-- [ ] Søren Greising Tølbøll
+- [ ] Frederik Deth Hesselholt
 - [ ] Agnete Moos (Produkt Owner)
 - [ ] Sofie Søndergaard (produktkoordinator)
 
