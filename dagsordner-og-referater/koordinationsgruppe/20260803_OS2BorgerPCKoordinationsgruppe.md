@@ -3,7 +3,7 @@
 
 **Status**
 - [x] Referat klar til godkendelse
-- [ ] Referat godkendt
+- [x] Referat godkendt på koordinationsgruppemøde 07.09.2026
 
 ## Mødefakta
   
