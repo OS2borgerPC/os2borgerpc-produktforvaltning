@@ -2,7 +2,7 @@
 # OS2borgerPC koordinationsgruppemøde 07.09.2026
 
 **Status**
-- [ ] Referat klar til godkendelse
+- [x] Referat klar til godkendelse
 - [ ] Referat godkendt
 
 ## Mødefakta
