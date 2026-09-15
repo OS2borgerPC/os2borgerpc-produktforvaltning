@@ -8,9 +8,9 @@
 - **Beslutningstype**: Operationel  
 
 ## Baggrund
-En medlemskommune har indberettet en alvorlig sikkerhedssårbarhed i kommunikationen mellem OS2BorgerPC Admin-portalen og BorgerPC-klienterne. Sagen blev drøftet på koordinationsgruppens møde den 3. august 2026, hvor det blev vurderet, at problemet udgør en reel trussel mod kundernes sikkerhed og skal håndteres med højeste prioritet. På styregruppens møde den 4. august 2026 blev der modtaget en orientering med de tekniske detaljer vedrørende sårbarheden. 
+Gladsaxe Kommune har fundet alvorlige sikkerhedssårbarheder i OS2BorgerPC der har krævet akut udbedring, da koordinationsgruppen og leverandører har vurderet, at de udgjorde en reel trussel mod kundernes sikkerhed. Styregruppen er oriienteret herom på mødet den 4. august 2026. 
 
-Efter dialog med KvalitetsIT er et hotfix implementeret, der lukker det akutte sikkerhedshul. En ny release er blevet tagget (7.0.3) og alle kunders sites er blevet opdateret. Det har kostet 6000 kr. som jeg har set mig nødsaget til at disponere uden forudgående godkendelse fra styregruppen.
+Produktforvaltningen har efter dialog med KvalitetsIT fået udviklet og implementeret patches, der lukker de akutte sikkerhedshuller. En ny release er blevet tagget (7.0.3) og alle kunders sites er blevet opdateret.
 
 ## Problemstilling
 Nuværende procedurer kræver, at alle udgifter til løsning af sikkerhedsproblemer gennemgås og godkendes individuelt af styregruppen. Denne proces kan være for langsom til at imødekomme kravene om hurtig reaktion på aktive sikkerhedstrusler, hvilket potentielt udsætter brugerne for risiko.
