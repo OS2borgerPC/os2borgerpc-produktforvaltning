@@ -43,8 +43,14 @@
 
 #### 2. Temaer for dagens møde
 - 2.1 Status for sikkerhedssager. Stillingtagen til [Beslutning om midler til sikkerhedshændelser](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-08-21-midler-til-sikkerhedshaendelser.md).
-- 2.2 Konklusioner fra OS2Fri workshop d. 8. september og implikationer for OS2BorgerPC
+- 2.2 Konklusioner fra OS2Fri workshop d. 8. september og implikationer for OS2BorgerPC.
 - 2.3 Risiko mitigering: Hvordan forholder vi os til end-of-life på Ubuntu 22.04 til april 2027.
+  
+  På seneste styregruppemøde blev end-of-life i april 2027 for OS2BorgerPC nævnt som en risiko, vi må forholde os til. Styregruppen har truffet en principiel beslutning om at udfase den nuværende version til fordel for et nyt system baseret på OS2Basis/OS2Fri.
+Desværre ser det ikke ud til, at tidslinjerne kan nå at mødes. Der er intet, der tyder på, at OS2Basis bliver klar inden for de næste seks måneder, og den prototype, som produktforvaltningen arbejder på, har brug for OS2Basis som fundament.
+
+  En mulighed er derfor at levetidsforlænge det nuværende produkt, så vi ikke står uden et produkt næste år. KvalitetsIT har givet et tilbud på opgaven med at opgradere fra 22.04 til 24.04. Tilbuddet er sendt til styregruppen på email. KvalitetsIT vil kunne påbegynde opgaven i januar 2027.
+
 - 2.4 Stillingtagen til Beslutning om dækning af transportudgifter til møder i OS2 regi
 
 #### 3. Evt og kik til næste møde
