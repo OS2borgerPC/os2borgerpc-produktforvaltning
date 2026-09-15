@@ -51,7 +51,7 @@ Desværre ser det ikke ud til, at tidslinjerne kan nå at mødes. Der er intet, 
 
   En mulighed er derfor at levetidsforlænge det nuværende produkt, så vi ikke står uden et produkt næste år. KvalitetsIT har givet et tilbud på opgaven med at opgradere fra 22.04 til 24.04. Tilbuddet er sendt til styregruppen på email. KvalitetsIT vil kunne påbegynde opgaven i januar 2027.
 
-- 2.4 Stillingtagen til Beslutning om dækning af transportudgifter til møder i OS2 regi
+- 2.4 Stillingtagen til [Beslutning om dækning af transportudgifter til møder i OS2 regi](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-08-24-bevilling-af-transport-til-produktforvaltningen-til-os2-m%C3%B8der.md)
 
 #### 3. Evt og kik til næste møde
 - 3.1 Næste Styregruppemøde: 
