@@ -8,9 +8,8 @@
 - **Beslutningstype**: Operationel  
 
 ## Baggrund
-Gladsaxe Kommune har fundet alvorlige sikkerhedssårbarheder i OS2BorgerPC der har krævet akut udbedring, da koordinationsgruppen og leverandører har vurderet, at de udgjorde en reel trussel mod kundernes sikkerhed. Styregruppen er orienteret herom på mødet den 4. august 2026. 
-
-Produktforvaltningen har efter dialog med KvalitetsIT fået udviklet og implementeret patches, der lukker de akutte sikkerhedshuller. En ny release er blevet tagget (7.0.3) og alle kunders sites er blevet opdateret.
+Der er fundet alvorlige sikkerhedssårbarheder i OS2BorgerPC der har krævet akut udbedring. Koordinationsgruppen og leverandører har vurderet, at de udgjorde en reel trussel mod kundernes sikkerhed. Styregruppen er orienteret herom på mødet den 4. august 2026. 
+Produktforvaltningen har i dialog med KvalitetsIT fået udviklet og implementeret patches, der lukker de akutte sikkerhedshuller. Opdateret version af admin-portalen er sat i drift for alle kunder hos KvalitetsIT.
 
 ## Problemstilling
 Nuværende procedurer kræver, at alle udgifter til løsning af sikkerhedsproblemer gennemgås og godkendes individuelt af styregruppen. Denne proces kan være for langsom til at imødekomme kravene om hurtig reaktion på aktive sikkerhedstrusler, hvilket potentielt udsætter brugerne for risiko.
