@@ -42,7 +42,7 @@
 
 
 #### 2. Temaer for dagens møde
-- 2.1 Status for sikkerhedssager. Stillingtagen til [Beslutning om midler til sikkerhedshændelser](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-08-21-midler-til-sikkerhedshaendelser.md).
+- 2.1 Status for sikkerhedssager. Stillingtagen til [Beslutning om midler til håndtering af akutte sikkerhedshændelser i OS2BorgerPC](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-08-21-midler-til-sikkerhedshaendelser.md).
 - 2.2 Konklusioner fra OS2Fri workshop d. 8. september og implikationer for OS2BorgerPC.
 - 2.3 Risiko mitigering: Hvordan forholder vi os til end-of-life på Ubuntu 22.04 til april 2027.
   
