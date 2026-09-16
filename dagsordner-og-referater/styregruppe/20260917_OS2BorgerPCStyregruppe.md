@@ -46,6 +46,7 @@
   - Samarbejde med Gladsaxes sikkerhedsteam.
   - Status på sikkerhedsrelease på den åbne udgave af OS2BorgerPC
   - Status på sikkerhedsrelease på Magentas udgave af OS2BorgerPC
+  - Kommunikation om sikkerhedssagen. [Nyhedsbrev](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/dokumenter/OS2BorgerPC-September-Nyhedsbrev.pdf) + [GHSA](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/dokumenter/ghsa-udkast.md).
   - [Beslutning om midler til håndtering af akutte sikkerhedshændelser i OS2BorgerPC](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-08-21-midler-til-sikkerhedshaendelser.md).
 - 2.2 Godkendelse af tekst til nyhedsbrev.
   - Sofie har skrevet et udkast til et nyhedsbrev som vi ønsker at udsende.
