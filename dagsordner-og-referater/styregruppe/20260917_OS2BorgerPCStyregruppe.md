@@ -42,7 +42,7 @@
 
 
 #### 2. Temaer for dagens møde
-- 2.1 Status på sikkerhedssagerne.
+- 2.1 Afrunding af sikkerhedssagerne.
   - Samarbejde med Gladsaxes sikkerhedsteam.
   - Status på sikkerhedsrelease (åbne udgave af OS2BorgerPC + Magenta)
   - Kommunikation om sikkerhedssagen. [Nyhedsbrev](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/dokumenter/OS2BorgerPC-September-Nyhedsbrev.pdf) + [GHSA](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/dokumenter/ghsa-udkast.md).
