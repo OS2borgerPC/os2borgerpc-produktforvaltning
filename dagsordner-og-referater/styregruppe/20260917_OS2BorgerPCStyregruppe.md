@@ -23,7 +23,7 @@
 - [ ] Sofie Søndergaard (Produktkoordinator)
 
 #### Gæster: 
-- [ ] Rune Gråbæk (Gladsaxe kommune)
+- [ ] Rune Gråbæk (Gladsaxe kommune) (ændret/flyttet til forudgående koordinationsgruppemøde 7. september) 
 
 #### Afbud:
 - [ ] 
@@ -61,7 +61,7 @@
   Fra 2027 træder OS2's fælles model for årlig regulering af produkternes vederlag fuldt i kraft. Det betyder, at det årlige vederlag for tilslutning til et OS2-produkt som udgangspunkt automatisk fremskrives ved årsskiftet efter KL's offentliggjorte løn- og prisskøn.
 
 #### 3. Evt og kik til næste møde
-- 3.1 Næste Styregruppemøde: 
+- 3.1 Næste Styregruppemøde: Torsdag den 7. oktober
 
 
 
