@@ -15,12 +15,12 @@
 
 
 #### Deltagere:
-- [ ] Thor Dekov Buur
-- [ ] Bo Mathiasen Bladmose
-- [ ] Per Kjær
-- [ ] Toke Leth Laursen
-- [ ] Agnete Moos (Produkt Owner)
-- [ ] Sofie Søndergaard (Produktkoordinator)
+- [x] Thor Dekov Buur
+- [x] Bo Mathiasen Bladmose
+- [x] Per Kjær
+- [x] Toke Leth Laursen
+- [x] Agnete Moos (Produkt Owner)
+- [x] Sofie Søndergaard (Produktkoordinator)
 
 #### Gæster: 
 - [ ] 
@@ -29,8 +29,8 @@
 - [ ] 
 
 #### Faciliteret af:
-- [ ] Agnete Moos (Mødeleder)  
-- [ ] Sofie Søndergaard (Referent)  
+- [x] Agnete Moos (Mødeleder)  
+- [x] Sofie Søndergaard (Referent)  
   
 
  
@@ -62,15 +62,26 @@
 
 
 
-
-
- 
   ---
 
 
 
 
 ## Mødereferat
+
+
+> #### 2. Temaer for dagens møde
+
+> - 2.1 Orientering om budgetopfølgning og råderum til levetidsforlængelse
+> - 2.2 Beslutning om levetidsforlængelse af OS2BorgerPC
+>   
+> [Beslutningsforslag: Levetidsforlængelse af OS2BorgerPC via opgradering til Ubuntu 24.04](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-09-17-levetidsforlaengelse-af-os2borgerpc.md).
+> 
+> - 2.3 Kommunikation om sikkerhedshændelse - status
+> - 2.4 Orientering fra koordinationsgruppen om ny browser. LibreWolf som alternativ til Chrome
+
+> #### 3. Evt og kik til næste møde
+> - 3.1 Næste Styregruppemøde: Torsdag 5. november 2026
 
 
 
