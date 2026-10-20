@@ -9,7 +9,7 @@
 
 ## Baggrund
 
-På seneste styregruppemøde den 8/3-2026 blev end-of-life i april 2027 for OS2BorgerPC nævnt som en risiko, vi må forholde os til.
+På styregruppemøde den 6/8-2026 blev end-of-life i april 2027 for OS2BorgerPC nævnt som en risiko, vi må forholde os til.
 
 Styregruppen har truffet en principiel beslutning om at udfase den nuværende version til fordel for et nyt system baseret på OS2Basis/OS2Fri.
 
