@@ -3,7 +3,7 @@
 ## Beskrivelse af beslutningen
 
 - **Dato**: 2026-09-17  
-- **Status**: Enstemmigt af styregruppen på styregruppemøde den 8/10 -2026  
+- **Status**: Enstemmigt vedtaget af styregruppen på styregruppemøde den 8/10 -2026  
 - **Beslutningstagere**: Styregruppen  
 - **Beslutningstype**: Operationel  
 
