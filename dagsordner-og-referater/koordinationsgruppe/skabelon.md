@@ -45,9 +45,7 @@ Evt. Observers/ Gæster:
   
 
 #### 3. Eventuelt
-- 3.1 General Housekeeping
-- 3.2 Input til styregruppen
-- 3.3 Evt og kik til næste møde
+
 
 
   ---
