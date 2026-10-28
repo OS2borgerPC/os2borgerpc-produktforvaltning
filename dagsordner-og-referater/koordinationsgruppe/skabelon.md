@@ -37,7 +37,7 @@ Evt. Observers/ Gæster:
 
 
 #### 2. Temaer for dagens møde
-- 2.1 
+- 2.1 Status på LibreWolf. Librewolf er klar til test.
 - 2.2 
 - 2.3 
 - 2.4 
