@@ -66,9 +66,9 @@ https://raw.githubusercontent.com/OS2borgerPC/os2borgerpc-core-scripts/refs/head
 
 
 
-- #### 2.3 Script vidensdelingsforum
+- #### 2.3 Scriptværksted
 
-Jeg foreslår at vi etablerer et script vidensdelingsforum, hvor vi deler ideer til scripts og programmerer scripts sammen. Rammen om samarbejdet kan være en wiki på Github og virtuelle møder hvert halve år. 
+Forslag til aktivitet - scriptværksted for medlemmer af OS2BorgerPC. Uden leverandører.  Frekvens: 1 time hver 8. uge online.  Kan evt. erstatte hver andet koordinationsgruppemøde. Fælles om scripts.  Rammen om samarbejdet kan være et diskussionsforum på Github
 
 Hvad siger I til den ide?
 
