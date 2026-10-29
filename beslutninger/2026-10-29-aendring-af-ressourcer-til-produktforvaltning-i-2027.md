@@ -5,7 +5,7 @@
 Denne beslutning omgør den tidligere beslutning om frikøb af Sønderborg-medarbejdere til produktforvaltning.
 
 **Kort beslutningstekst:**  
-[Skriv her hvad der konkret ændres i den tidligere beslutning.]
+Fra 1. januar 2027 ændres ressourceallokeringen til produktforvaltning fra 20 timer/uge til 12 timer/uge.  
 
 - **Dato**: 2026-10-29
 - **Status**: Forslag
@@ -16,40 +16,38 @@ Denne beslutning omgør den tidligere beslutning om frikøb af Sønderborg-medar
 ## Kontekst/ Årsag
 
 **Baggrund:**  
-Det har ved bedgetgennemgang vist sig at der har været afsat for få midler til produktforvaltning i budget 2026 til at dække 20 timer/uge frikøb af medarbejdere fra Sønderbvorg.
-
-Produktforvaltningen vurderer at det fremadrettet vil være mulogt at løse - en Produkt Administrator eller Koordinator med ansvar for Administration, Kommunikation og Koordination
-- en Product Owner med ansvar for produktforvaltning og produkt udvikling inden for tidsrammen 12 timer. Ændringen træder i kraft 1. januar 2027.
-
-
+Den tidligere beslutning fra 2025 fastlagde et frikøb af ressourcer fra Sønderborg Kommune til den daglige produktforvaltning.  
+Ved budgetgennemgang er det blevet tydeligt, at det nuværende niveau på 20 timer/uge lægger et for stort pres på produktets samlede økonomi.
 
 **Årsag til ændring:**  
-Produktforvaltning tager en uforholdsmæssig stor del af budgettet. Det giver mening at allokere en større andel til softwareudvikling og mindre til administration.
-Med AI er det muligt at effektuere dagsoden- og referatskrivning. Også nyhedsbreve kan AI hjælpe med at opbygge.
-[Beskriv den konkrete årsag, fx ny prioritering, ændret budget, ændret behov eller ny tidsplan.]
+Formålet er at frigive budget til softwareudvikling og samtidig sikre en bæredygtig drift af produktforvaltningen.  
+Det vurderes, at en del administrative og kommunikative opgaver kan løses mere effektivt med understøttelse fra AI-værktøjer, uden at kvaliteten i produktforvaltningen påvirkes.
 
 ## Konsekvenser
 
 Beskriv hvad denne ændring betyder fremadrettet (både godt og skidt):
 
-- **Positive**: Flere penge til udvikling af software, frem for administration
-- **Negative**: Større arbejdsbelastning på Agnete Moos
-- **Neutral**: [Skriv neutrale konsekvenser]
+- **Positive**: En større andel af budgettet kan anvendes til udvikling, vedligehold og sikkerhedsforbedringer i produktet.
+- **Negative**: Der vil være færre timer til mødefacilitering, koordinering og medlemsrettet kommunikation, hvilket kan øge arbejdspresset i perioder.
+- **Neutral**: Opgaveporteføljen må prioriteres og afgrænses tydeligere.
 
 ## Effektuering
 
 Der er behov for flg. i forbindelse med effektuering af beslutningen:
 
-1. Opsigelse af aftale med Sønderborg Kommune omkring frikøb af Sofie Søndegaard
-2. Tilretning af aftale med Sønderborg Kommune omkring frikøb af Sofie Søndegaard
-3. Tilretning af budget 2027
+1. Tilretning af eksisterende frikøbsaftale med Sønderborg Kommune, så rammen svarer til 12 timer/uge fra 01.01.2027.
+2. Konkret prioritering af opgaver og værktøjer inden ikrafttrædelse.
+3. Opdatering af budget 2027 samt løbende opfølgning på effekten i 1. halvår 2027.
+4. Orientering til koordinationsgruppen og styregruppen om ændret serviceniveau på administrative opgaver.
 
 ## Riscici
 
-At det kan være svært at opretholde samme niveau af mødefacilitering til koordinationsgruppe og styregruppen. 
+Det kan være vanskeligt at opretholde samme niveau af mødefacilitering for koordinationsgruppen og styregruppen.
 
-Færre ressourcer til kommunikation som nyhedsbreve og medlemsrettede aktiviteter og møder. 
+Der bliver færre ressourcer til kommunikation, nyhedsbreve og medlemsrettede aktiviteter/møder.
+
+Der er risiko for, at kritiske opgaver samles på for få personer. Dette håndteres gennem tydelig prioritering, løbende statusopfølgning og tidlig eskalering ved kapacitetsudfordringer.
 
 ## Yderligere information
 
-- Link til den beslutning der ændres
+- Beslutningen ændrer: [2025-02-10-sonderborg-medarbejdere-frikobes-til-produktforvaltning.md](./2025-02-10-sonderborg-medarbejdere-frikobes-til-produktforvaltning.md)
