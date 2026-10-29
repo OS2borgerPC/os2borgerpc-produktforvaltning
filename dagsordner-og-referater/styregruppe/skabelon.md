@@ -24,7 +24,7 @@
 
 
 #### Afbud:
-- [ ] Toke Leth Laursen
+- [ ] XXX
 
 #### Faciliteret af:
 - [ ] Agnete Moos (Mødeleder)  
