@@ -41,11 +41,13 @@ Evt. Observers/ Gæster:
 
 #### 2. Temaer for dagens møde
 - 2.1 Ressurcer til produktforvaltning i 2027. 
+      [Beslutningsforslag: Ændring af ressourcer til produktforvaltning i 2027](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-10-29-aendring-af-ressourcer-til-produktforvaltning-i-2027.md)
 - 2.2 Ressourcer til test og validering af KvalitetsIT's leverance
       - Test af nye images
       - Test af core scripts på de nye images
-- 2.3 Nyt tiltag:
-- 2.4 
+- 2.3 Ide til nyt tiltag: OS2BorgerPC Scriptværksted - Kom med et problem, gå hjem med et script.
+      - Kan evt. erstatte hver andet koordinationsgruppemøde
+
 
 #### 3. Evt og kik til næste møde
 - 3.1 Næste Styregruppemøde: 
@@ -56,6 +58,7 @@ Evt. Observers/ Gæster:
 
 #### Link til beslutningslogs
 
+- [Beslutningsforslag: Ændring af ressourcer til produktforvaltning i 2027](https://github.com/OS2borgerPC/os2borgerpc-produktforvaltning/blob/main/beslutninger/2026-10-29-aendring-af-ressourcer-til-produktforvaltning-i-2027.md)
 
 
 
