@@ -45,8 +45,10 @@ Evt. Observers/ Gæster:
 - 2.2 Ressourcer til test og validering af KvalitetsIT's leverance
       - Test af nye images
       - Test af core scripts på de nye images
-- 2.3 Ide til nyt tiltag: OS2BorgerPC Scriptværksted - Kom med et problem, gå hjem med et script.
-      - Kan evt. erstatte hver andet koordinationsgruppemøde
+- 2.3 Koordinationsgruppemøderne har problemer med fremmøde. Der spildes ressourcer på at forberede dagsorden og mødetid. Skal vi organisere os anderledes?
+- 2.4 Ide til nyt tiltag: OS2BorgerPC Scriptværksted - Kom med et problem, gå hjem med et script. Skal være åbent for alle medlemskommuner. Uden tilmelding.
+  
+
 
 
 #### 3. Evt og kik til næste møde
