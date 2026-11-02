@@ -77,8 +77,8 @@ Hvad siger I til den ide?
 
 I den leverandøeuafhængige version af OS2BorgerPC er globale scripts versionstyrede og kan opdateres via nye releases af os2borgerpc-core-scripts repos. Nu da produktet levetidsforlænges giver det mening at opdatere core scripts. 
 
-Procedure 
 
+- #### 2.5 Status på åbne sager på Github.
   
 
 #### 3. Eventuelt
