@@ -5,6 +5,8 @@
 - [ ] Referat klar til godkendelse
 - [ ] Referat godkendt
 
+Ingen mødte op. Mødet blev aflyst.
+
 ## Mødefakta
   
 **Mødenavn**: OS2borgerpc koordinationsgruppemøde  (Afholdes 1. mandag i måneden)
