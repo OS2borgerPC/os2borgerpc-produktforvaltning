@@ -9,7 +9,7 @@
   
 **Mødenavn**: OS2borgerpc styregruppemøde  (Afholdes 1. torsdag i måneden)
 
-**Tid**: 05.11.2026  kl. Start tid - Slut tid  
+**Tid**: 05.11.2026  kl. 13 - 14  
 
 **Sted**: Virtuel
 
