@@ -8,7 +8,7 @@ Denne beslutning omgør den tidligere beslutning om frikøb af Sønderborg-medar
 Fra 1. januar 2027 ændres ressourceallokeringen til produktforvaltning fra 20 timer/uge til 12 timer/uge.  
 
 - **Dato**: 2026-10-29
-- **Status**: Forslag
+- **Status**: Godkendt på styregruppemødet den 5. november 2026
 - **Beslutningstagere**: Styregruppen
 - **Beslutningstype**: Operationel
 - **Erstatter/ændrer beslutning**: 2025-02-10-sonderborg-medarbejdere-frikobes-til-produktforvaltning
