@@ -32,7 +32,7 @@ Produktet udvikles bedst hvis vi kan kommunikere entydigt om indholdet i Globale
 Versionering på script-niveau fastholdes af hensyn til infomation til brugerne. Der skal være en changelog i beskrivelsen af scripts.
 
 Opdateringer af globale scripts skal være bagudkompatible. Forstået på den måde at hvis et script er tilknyttet en gruppe med et givent parametersæt må scriptopdateringen ikke ødelægge den hidtidige virkemåde.
-Nye parametre tilføjes til sidst og skal være 
+Nye parametre tilføjes til sidst og skal være optional.
 
 
 
