@@ -18,9 +18,15 @@ Code Review: Produktforvaltningen ønsker at alle kodebidrag fra produktforvaltn
 Når pull requests er godkendte ønsker vi at der tagges en release. Vi skal aftale om det er produktforvaltniongenb eller KvalitetsIT der releaser? Der skal laves en opskrift på hvad en release-aktiviteten indeholder ud over et tag på Github. F. eks. CHANGELOG, produktdokumentation.
 
  4. Idriftsætning
-Nye versioner skal sættes i drift hos KLvalitetsITs kunder. HVilke aftaler har KLvalitetsIT med sine kunder om det?
+Nye versioner skal sættes i drift hos KLvalitetsITs kunder. I den driftsaftale som KvalitesIT har med deres driftskunder er det utydeligt om opgraderinger af OS2BorgerPC til nye versioner er inkluderet i9 driftsaftalen. Det nærmeste man kommer er afsnit 7. hvor der står:
 
-5. Særligt i forhold til core scripts.
+> 7. Vedligehold
+> OS2 forestår den løbende vedligehold af den leverede service OS2BorgerPC. 
+
+Kan Servicevindue 1.+3. onsdag i hver måned evt. aftales som fast idriftsætningstidspunkt, hvis der ligger nye taggede releases klar?
+
+
+6. Særligt i forhold til core scripts.
 Produktforvaltningen har brug for en strammere styring af core scripts end hidtil praktiseret. Vi ønsker på en ressourceeffekltiv måde at sikre opdaterde og relevante skripts for alle medlemmer.
 
 Følgende principper foreslås:
