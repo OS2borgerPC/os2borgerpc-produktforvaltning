@@ -24,14 +24,15 @@ Nye versioner skal sættes i drift hos KLvalitetsITs kunder. HVilke aftaler har 
 Produktforvaltningen har brug for en strammere styring af core scripts end hidtil praktiseret. Vi ønsker på en ressourceeffekltiv måde at sikre opdaterde og relevante skripts for alle medlemmer.
 
 Følgende principper foreslås:
-Indholdet i Globale scripts skal KUN være styret af den environment variabel der hedder CORE_SCRIPT_COMMIT_HASH. Environment variabel CORE_SCRIPT_VERSION_TAG nedlægges. Formålet er et gøre det lettere at teste ændringer til core scripts. En ny version kan indlæses uden at der er tagget en release. Desuden er det sært at have to pointere. Produktforvaltningen har lavet ændringen. Den ligger klar i en feature-branch.
 
-Det skal ikke være muligt at slette individuelle core scripts fra Djangos admin-side som beskrevet her: https://os2borgerpc.os2.eu/docs/drift/globale-scripts.html
+a. Indholdet i Globale scripts skal KUN være styret af den environment variabel der hedder CORE_SCRIPT_COMMIT_HASH. Environment variabel CORE_SCRIPT_VERSION_TAG nedlægges. Formålet er et gøre det lettere at teste ændringer til core scripts. En ny version kan indlæses uden at der er tagget en release. Desuden er det sært at have to pointere. Produktforvaltningen har lavet ændringen. Den ligger klar i en feature-branch.
+
+b. Det skal ikke være muligt at slette individuelle core scripts fra Djangos admin-side som beskrevet her: https://os2borgerpc.os2.eu/docs/drift/globale-scripts.html
 Produktet udvikles bedst hvis vi kan kommunikere entydigt om indholdet i Globale scripts. Individuel tilpasning af Globale Scripts er unødvendig og vil være en kilde til forvirring. Har man lokale behov må de imødekommes med lokale scripts.
 
-Versionering på script-niveau fastholdes af hensyn til infomation til brugerne. Der skal være en changelog i beskrivelsen af scripts.
+c. Versionering på script-niveau fastholdes af hensyn til infomation til brugerne. Der skal være en changelog i beskrivelsen af scripts.
 
-Opdateringer af globale scripts skal være bagudkompatible. Forstået på den måde at hvis et script er tilknyttet en gruppe med et givent parametersæt må scriptopdateringen ikke ødelægge den hidtidige virkemåde.
+d. Opdateringer af globale scripts skal være bagudkompatible. Forstået på den måde at hvis et script er tilknyttet en gruppe med et givent parametersæt må scriptopdateringen ikke ødelægge den hidtidige virkemåde.
 Nye parametre tilføjes til sidst og skal være optional.
 
 
