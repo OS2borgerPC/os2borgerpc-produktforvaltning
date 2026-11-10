@@ -1,7 +1,9 @@
-Jeg vil gerne booke et møde med Sune. Hvis der er andre fra KvalitetsIT som dagsordenen har relevans for, er de også velkomne.
+Kære KvalitetsIT
+
+Jeg vil gerne booke et møde med jer. Det er obligatorisk at Sune deltager. Hvis der er andre fra KvalitetsIT som dagsordenen har relevans for, er de også velkomne.
 Os2BorgerPC skal faktureres for jeres tid.
 
-Emnet for mødet er at aftale en arbejdsgang for opdateres og releases af admin-site og core-scripts, samt praksis for idriftsættelse hos KvalitetsITs OS2BorgerPC kunder.
+Emnet for mødet er at aftale en samarbejdsmodel og arbejdsgang for opdatering og release af admin-site og core-scripts, samt praksis for idriftsættelse hos jeres OS2BorgerPC kunder.
 
 Baggrund: Styregruppen har besluttet at levetidsforlænge OS2BorgerPC. Dermed er det relevant at videreudvikle på produktet. Produktforvaltningen ønsker med interne medarbejderressourcer at videreudvikle produktet. 
 Ud over det planlægges en ny tilbagevendende aktivitet - "Åbent Script-værksted" - der har til formål at engagere medlemmer af produktfællesskabet i vidensdeling og forbedring af produktet. Den aktivitet vil også medføre behov for produktreleases.
