@@ -1,68 +1,72 @@
 Kære KvalitetsIT
 
-Jeg vil gerne booke et møde med jer. Det er obligatorisk at Sune deltager. Hvis der er andre fra KvalitetsIT som dagsordenen har relevans for, er de også velkomne.
-Os2BorgerPC skal faktureres for jeres tid.
+OS2borgerPCs produktforvaltning vil gerne invitere jer til et møde om vores samarbejde og arbejdsgange for udvikling, release og idriftsættelse af nye versioner af OS2borgerPC – med særligt fokus på core-scripts og admin-sitet.
 
-Emnet for mødet er at aftale en samarbejdsmodel og arbejdsgang for opdatering og release af admin-site og core-scripts, samt praksis for idriftsættelse hos jeres OS2BorgerPC kunder.
+Formålet med mødet er at indgå konkrete aftaler, så OS2borgerPC i 2027 igen kan være et aktivt forvaltet produkt med løbende videreudvikling og vedligeholdelse.
 
-Baggrund: Styregruppen har besluttet at levetidsforlænge OS2BorgerPC. Dermed er det relevant at videreudvikle på produktet. Produktforvaltningen ønsker med interne medarbejderressourcer at videreudvikle produktet. 
-Ud over det planlægges en ny tilbagevendende aktivitet - "Åbent Script-værksted" - der har til formål at engagere medlemmer af produktfællesskabet i vidensdeling og forbedring af produktet. Den aktivitet vil også medføre behov for produktreleases.
+Produktforvaltningen er interesseret i at købe konkrete ydelser fra KvalitetsIT, for eksempel code review af kodebidrag.
 
-Dagsorden:
-1. Etablering af fælles forståelse af opgaven.
+Det er vigtigt, at Sune deltager. I vurderer selv, om dagsordenen også er relevant for andre fra KvalitetsIT. KvalitetsIT kan fakturere OS2borgerPCs produktfællesskab for den medgåede tid.
 
-2. 
-Code Review: Produktforvaltningen ønsker at alle kodebidrag fra produktforvaltningen og medlemmer reviewes af KvalitesIT inden det merges ind i produktet. Hvordan bestiller vi et code review? Jeg tænker at vi bundler et antal pull requests og sender en email når vi har nok til nogle timers arbejde.
+## Baggrund
 
- 3. Release
-Når pull requests er godkendte ønsker vi at der tagges en release. Vi skal aftale om det er produktforvaltniongenb eller KvalitetsIT der releaser? Der skal laves en opskrift på hvad en release-aktiviteten indeholder ud over et tag på Github. F. eks. CHANGELOG, produktdokumentation.
+Styregruppen har besluttet at levetidsforlænge OS2borgerPC. Det gør det relevant at videreudvikle produktet. Produktforvaltningen ønsker at stå for denne videreudvikling med interne medarbejderressourcer. Der forventes en ny release af core-scripts og admin-sitet i december.
 
- 4. Idriftsætning
-Nye versioner skal sættes i drift hos KLvalitetsITs kunder. I den driftsaftale som KvalitesIT har med deres driftskunder er det utydeligt om opgraderinger af OS2BorgerPC til nye versioner er inkluderet i9 driftsaftalen. Det nærmeste man kommer er afsnit 7. hvor der står:
+I 2027 planlægger vi desuden en tilbagevendende aktivitet med arbejdstitlen "Åbent scriptværksted". Formålet er at engagere medlemmer af produktfællesskabet i videndeling og videreudvikling af produktet. Aktiviteten forventes også at skabe behov for regelmæssige releases af core-scripts.
+
+## Forslag til dagsorden
+
+1. Valg af mødeleder og referent.
+
+2. Kort snak om image opdatering 22.04 > 24.04 i januar.
+
+3. Retningslinjer for bidrag
+
+   Vi foreslår, at al udvikling af OS2borgerPC følger retningslinjerne i `CONTRIBUTING.md` og det eksisterende feature-branch-workflow: issue → pull request → code review → merge til main → release. Manuel test foretages på feature-branchen. Det svarer til den arbejdsgang, vi hidtil har fulgt.
+
+   På et senere tidspunkt kan vi overveje Gitflow med development- og release-branches, men umiddelbart vurderer vi ikke, at der er behov for det nu.
+
+   - Er der noget ved retningslinjerne for bidrag, vi bør drøfte eller afklare?
+
+4. Code review
+
+   Produktforvaltningen ønsker, at kodebidrag fra produktforvaltningen og medlemmerne bliver gennemgået af KvalitetsIT, inden de merges ind i produktet.
+
+   - Hvordan tilrettelægger vi en effektiv arbejdsgang?
+   - Skal vi samle flere pull requests, så code review kan udføres i sammenhængende arbejdspas?
+   - Hvordan bestiller vi et code review – for eksempel ved at skrive til os2borgerpc@kit.dk?
+
+5. Release
+
+   Når pull requests er godkendt, ønsker vi at tagge en release. Vi skal aftale, om produktforvaltningen eller KvalitetsIT står for releases, og hvad releaseprocessen skal omfatte ud over at oprette et tag på GitHub – for eksempel opdatering af changelog og produktdokumentation.
+
+   Vi foreslår, at produktforvaltningen afprøver releaseprocessen for core-scripts og admin-sitet og dokumenterer den. KvalitetsIT kan understøtte arbejdet og gennemgå releasedokumentationen.
+
+6. Idriftsættelse
+
+   Nye versioner skal sættes i drift hos KvalitetsITs kunder. Det er uklart, om opgradering af OS2borgerPC til nye versioner er omfattet af den driftsaftale, KvalitetsIT har med sine driftskunder. Det nærmeste, aftalen kommer på dette, er afsnit 7:
 
 > 7. Vedligehold
 > OS2 forestår den løbende vedligehold af den leverede service OS2BorgerPC. 
 
 Kan Servicevindue 1.+3. onsdag i hver måned evt. aftales som fast idriftsætningstidspunkt, hvis der ligger nye taggede releases klar?
 
+7. Onboarding af nye OS2borgerPC-kunder hos KvalitetsIT
 
-6. Særligt i forhold til core scripts.
-Produktforvaltningen har brug for en strammere styring af core scripts end hidtil praktiseret. Vi ønsker på en ressourceeffekltiv måde at sikre opdaterde og relevante skripts for alle medlemmer.
+   Har KvalitetsIT en intern vejledning for onboarding? Herning blev eksempelvis ikke oprettet i `os2borgerpc-admin-site-urls`.
 
-Følgende principper foreslås:
+8. Principper for core-scripts
 
-a. Indholdet i Globale scripts skal KUN være styret af den environment variabel der hedder CORE_SCRIPT_COMMIT_HASH. Environment variabel CORE_SCRIPT_VERSION_TAG nedlægges. Formålet er et gøre det lettere at teste ændringer til core scripts. En ny version kan indlæses uden at der er tagget en release. Desuden er det sært at have to pointere. Produktforvaltningen har lavet ændringen. Den ligger klar i en feature-branch.
+   Produktforvaltningen har behov for en tydeligere styring af core-scripts end hidtil. Vi ønsker på en ressourceeffektiv måde at sikre, at scriptsene er opdaterede og relevante for alle medlemmer.
 
-b. Det skal ikke være muligt at slette individuelle core scripts fra Djangos admin-side som beskrevet her: https://os2borgerpc.os2.eu/docs/drift/globale-scripts.html
-Produktet udvikles bedst hvis vi kan kommunikere entydigt om indholdet i Globale scripts. Individuel tilpasning af Globale Scripts er unødvendig og vil være en kilde til forvirring. Har man lokale behov må de imødekommes med lokale scripts.
+   Vi foreslår følgende principper:
 
-c. Versionering på script-niveau fastholdes af hensyn til infomation til brugerne. Der skal være en changelog i beskrivelsen af scripts.
+   a. Indholdet af globale scripts styres udelukkende af miljøvariablen `CORE_SCRIPT_COMMIT_HASH`. Miljøvariablen `CORE_SCRIPT_VERSION_TAG` udfases. Det vil gøre det lettere at teste ændringer til core-scripts, fordi ændringer i et testmiljø kan indlæses fra en feature-branch, uden at der først skal tagges en release. Vi vurderer desuden, at det er uhensigtsmæssigt at have to versionsreferencer. Produktforvaltningen udarbejder ændringen og sender den som pull request til review.
 
-d. Opdateringer af globale scripts skal være bagudkompatible. Forstået på den måde at hvis et script er tilknyttet en gruppe med et givent parametersæt må scriptopdateringen ikke ødelægge den hidtidige virkemåde.
-Nye parametre tilføjes til sidst og skal være optional.
+    b. Det skal ikke være muligt at have flere versioner ar et core script indlæst og manuelt at slette individuelle core scripts fra Djangos admin-side som beskrevet her: https://os2borgerpc.os2.eu/docs/drift/globale-scripts.html
 
+    Produktet udvikles bedst hvis vi kan kommunikere entydigt om indholdet i Globale scripts. Individuel tilpasning af Globale Scripts er unødvendig og bliver en kilde til forvirring. Har man lokale behov må det klares via lokale scripts. Produktforvaltningen laver ændringen og lægger den i et pull request til review.
 
+    c. Versionering på script-niveau fastholdes af hensyn til infomation til brugerne. Der skal være en changelog i beskrivelsen på det enekelte script.
 
-
-
-
-
-
-
-De i involvere aktive medlemskommuner i videre
-release af core script  er at vi skal have aftalt en praksis for hvordan 
-Dagsorden for mødet:
-
-
-
-
-
-# Drejebog for release af core scripts
-
-Princip: Opdatering til eksisterende globale scripts skal være bagudkompatible. Må ikke ødelægge job log.
-Princip: Indholdet i Globale scripts skal være styret af env var. Det skal ikke være muligt at slette individulle scripts. Har man lokale behov skal de addresseres via Loakel scripts.
-Princip: Versionsnummer for hvert enkelt script skal fastholdes af hensyn til infomation til brugerne. Der skal være en changelog i beskrivelsen af scripts.
-Pricip: Der indføres CHANGELOG for selve core-script repo.
-
-
-Problem: Env var kræver i dag både et release tag og et commit hash. Det er et problem i forhold til test. Foreslået ændring. Der skal kun angives commit hash. Derved kan der testes inden release.
+    d. Opdateringer af globale scripts skal være bagudkompatible og må ikke medføre brud på eksisterende funktionalitet. Hvis en ændring kræver breaking changes, skal der udvikles et nyt script. Scripts, der er knyttet til grupper med et bestemt parametersæt, skal fortsat kunne anvendes med dette parametersæt efter en opdatering og bevare deres hidtidige funktionelle formål.
